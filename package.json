@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "collect": "tsx scripts/collect-news.ts"
+    "collect": "tsx scripts/collect-news.ts",
+    "discord": "tsx scripts/send-discord.ts"
   },
   "dependencies": {
     "next": "16.3.4",

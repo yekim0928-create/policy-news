@@ -1,0 +1,28 @@
+name: Daily Discord Brief
+
+on:
+  # GitHub Actions의 cron은 UTC 기준이다.
+  # Asia/Seoul(UTC+9) 오전 8시 = UTC 전날 23시
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  send-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Send Discord daily brief
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: npm run discord
