@@ -10,7 +10,9 @@ const DATA_DIR = path.join(process.cwd(), "data");
 const DATA_FILE = path.join(DATA_DIR, "news.json");
 const MAX_ITEMS = 2000;
 
-const parser = new Parser();
+const REQUEST_TIMEOUT_MS = 15000;
+
+const parser = new Parser({ timeout: REQUEST_TIMEOUT_MS });
 
 // URL 또는 guid 문자열을 sha256 해시로 변환해 뉴스 항목의 고유 id로 사용한다.
 function createId(value: string): string {
@@ -53,13 +55,13 @@ async function collectFromSource(
   });
 }
 
-// link가 같은 항목은 하나만 남긴다. 뒤에 오는 항목(새로 수집한 결과)이 우선한다.
-function dedupeByLink(items: NewsItem[]): NewsItem[] {
-  const byLink = new Map<string, NewsItem>();
+// id(URL 또는 guid 기반 해시)가 같은 항목은 하나만 남긴다. 뒤에 오는 항목(새로 수집한 결과)이 우선한다.
+function dedupeById(items: NewsItem[]): NewsItem[] {
+  const byId = new Map<string, NewsItem>();
   for (const item of items) {
-    byLink.set(item.link, item);
+    byId.set(item.id, item);
   }
-  return Array.from(byLink.values());
+  return Array.from(byId.values());
 }
 
 async function main(): Promise<void> {
@@ -83,7 +85,7 @@ async function main(): Promise<void> {
   }
 
   const existing = await loadExistingNews();
-  const merged = dedupeByLink([...existing, ...collected]);
+  const merged = dedupeById([...existing, ...collected]);
 
   merged.sort((a, b) => {
     const aTime = new Date(a.publishedAt).getTime();
