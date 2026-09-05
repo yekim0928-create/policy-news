@@ -10,7 +10,7 @@ const CATEGORY_ORDER: Category[] = [
   "창업",
   "수익화·크리에이터",
   "정부지원정책",
-  "UX/UI",
+  "AI 거버넌스",
 ];
 const MAX_ITEMS_PER_CATEGORY = 12;
 
@@ -93,7 +93,7 @@ export default async function Home() {
             Policy Brief
           </h1>
           <p className="mt-3 text-base text-muted-foreground">
-            AI이슈 · 경제 · 창업 · 수익화·크리에이터 · 정부지원정책 · UX/UI 뉴스를 한곳에서
+            AI이슈 · 경제 · 창업 · 수익화·크리에이터 · 정부지원정책 · AI 거버넌스 뉴스를 한곳에서
           </p>
         </div>
       </header>

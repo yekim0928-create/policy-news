@@ -11,7 +11,7 @@ const CATEGORY_ORDER: Category[] = [
   "창업",
   "수익화·크리에이터",
   "정부지원정책",
-  "UX/UI",
+  "AI 거버넌스",
 ];
 const TOP_ARTICLE_COUNT = 3;
 const SEOUL_TIME_ZONE = "Asia/Seoul";
@@ -22,7 +22,7 @@ const CATEGORY_COLOR: Record<Category, number> = {
   "창업": 0xf59e0b,
   "수익화·크리에이터": 0xd946ef,
   "정부지원정책": 0x0ea5e9,
-  "UX/UI": 0x64748b,
+  "AI 거버넌스": 0x7c3aed,
 };
 
 const CATEGORY_EMOJI: Record<Category, string> = {
@@ -31,7 +31,7 @@ const CATEGORY_EMOJI: Record<Category, string> = {
   "창업": "🚀",
   "수익화·크리에이터": "🎥",
   "정부지원정책": "🏛️",
-  "UX/UI": "🎨",
+  "AI 거버넌스": "⚖️",
 };
 
 const BRIEF_TITLE = "📌 Daily Brief";

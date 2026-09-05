@@ -4,7 +4,7 @@ export type Category =
   | "창업"
   | "수익화·크리에이터"
   | "정부지원정책"
-  | "UX/UI";
+  | "AI 거버넌스";
 
 export interface NewsSource {
   id: string;
@@ -63,9 +63,33 @@ export const NEWS_SOURCES: NewsSource[] = [
     url: "https://news.google.com/rss/search?q=%22%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%22+%EA%B3%B5%EA%B3%A0+OR+%EB%AA%A8%EC%A7%91&hl=ko&gl=KR&ceid=KR:ko"
   },
   {
-    id: "geeknews",
-    name: "GeekNews",
-    category: "UX/UI",
-    url: "https://news.hada.io/rss/news"
+    id: "oecd-ai-wonk",
+    name: "OECD.AI (The AI Wonk)",
+    category: "AI 거버넌스",
+    url: "https://wp.oecd.ai/feed/"
+  },
+  {
+    id: "arxiv-cs-cy",
+    name: "arXiv - Computers and Society (cs.CY)",
+    category: "AI 거버넌스",
+    url: "https://rss.arxiv.org/rss/cs.CY"
+  },
+  {
+    id: "tech-policy-press",
+    name: "Tech Policy Press",
+    category: "AI 거버넌스",
+    url: "https://techpolicy.press/rss/feed.xml"
+  },
+  {
+    id: "algorithmwatch",
+    name: "AlgorithmWatch",
+    category: "AI 거버넌스",
+    url: "https://algorithmwatch.org/en/rss"
+  },
+  {
+    id: "mit-news-ai",
+    name: "MIT News - Artificial Intelligence",
+    category: "AI 거버넌스",
+    url: "https://news.mit.edu/rss/topic/artificial-intelligence2"
   }
 ];
