@@ -36,15 +36,25 @@ const CATEGORY_EMOJI: Record<Category, string> = {
 
 const BRIEF_TITLE = "📌 Daily Brief";
 
-// Discord embed의 description은 최대 4096자다. 기사 요약이 길어져도 안전하게 잘리도록
+// Discord embed 하나의 description은 최대 4096자, 한 메시지에 담긴 모든 embed의
+// title+description 합은 최대 6000자다. 기사 요약이 길어져도 안전하게 잘리도록
 // 기사 한 건당 요약 길이도 별도로 제한한다.
 const DISCORD_EMBED_DESCRIPTION_LIMIT = 4096;
+const DISCORD_MESSAGE_TOTAL_LIMIT = 6000;
 const SUMMARY_MAX_LENGTH = 300;
 
 interface DiscordEmbed {
   title: string;
   description: string;
   color: number;
+}
+
+// 카테고리 임베드를 최종 조립하기 전 상태. sections[0]은 있다면 카테고리 종합 요약이고,
+// 나머지는 기사별 블록이다 — 실제 길이 제한은 assembleEmbeds에서 전체를 보며 적용한다.
+interface EmbedDraft {
+  title: string;
+  color: number;
+  sections: string[];
 }
 
 async function loadNews(): Promise<NewsItem[]> {
@@ -101,11 +111,12 @@ function pickArticleSummary(item: NewsItem): string {
 }
 
 // 카테고리 안의 오늘자 기사 전체(items)로 종합 흐름 요약을 만들고,
-// 그중 최신 TOP_ARTICLE_COUNT건만 본문에 나열한다.
-async function buildEmbed(
+// 그중 최신 TOP_ARTICLE_COUNT건의 블록을 함께 준비한다. 실제 길이 제한(embed당 4096자 /
+// 메시지 전체 6000자)은 모든 카테고리를 한꺼번에 보며 assembleEmbeds에서 적용한다.
+async function buildEmbedDraft(
   category: Category,
   items: NewsItem[]
-): Promise<DiscordEmbed> {
+): Promise<EmbedDraft> {
   let overview: string | undefined;
   try {
     overview = await summarizeCategoryOverview(
@@ -123,28 +134,52 @@ async function buildEmbed(
     return `**${index + 1}. [${escapeMarkdown(item.title)}](${item.link})**${summaryLine}\n출처: ${item.source}`;
   });
 
-  // 요약 길이 제한(SUMMARY_MAX_LENGTH) 덕분에 평소에는 초과할 일이 없지만,
-  // 혹시 모를 상황에 대비해 4096자 한도를 넘으면 뒤쪽 기사부터 통째로 제외한다
-  // (문자열을 임의 위치에서 자르면 마크다운 링크가 깨질 수 있기 때문). overview는 항상 유지한다.
-  const kept: string[] = overview ? [overview] : [];
-  let length = kept.length > 0 ? kept[0].length : 0;
-  for (const line of articleLines) {
-    const nextLength = length + (kept.length > 0 ? 2 : 0) + line.length;
-    if (nextLength > DISCORD_EMBED_DESCRIPTION_LIMIT) break;
-    kept.push(line);
+  return {
+    title: overview
+      ? `${CATEGORY_EMOJI[category]} ${category} | 오늘의 흐름`
+      : `${CATEGORY_EMOJI[category]} ${category}`,
+    color: CATEGORY_COLOR[category],
+    sections: overview ? [overview, ...articleLines] : articleLines,
+  };
+}
+
+// 주어진 순서대로 section을 이어붙이되 limit(문자 수)을 넘기면 뒤쪽 section부터 통째로 제외한다
+// (문자열을 임의 위치에서 자르면 마크다운 링크가 깨질 수 있어 section 단위로만 자른다).
+function packSections(sections: string[], limit: number): string[] {
+  const kept: string[] = [];
+  let length = 0;
+  for (const section of sections) {
+    const nextLength = length + (kept.length > 0 ? 2 : 0) + section.length;
+    if (nextLength > limit) break;
+    kept.push(section);
     length = nextLength;
   }
-  const description = kept.join("\n\n");
+  return kept;
+}
 
-  const title = overview
-    ? `${CATEGORY_EMOJI[category]} ${category} | 오늘의 흐름`
-    : `${CATEGORY_EMOJI[category]} ${category}`;
+// Discord 메시지 한 건에 담긴 모든 embed의 title+description 합은 6000자를 넘을 수 없고,
+// embed 하나의 description도 4096자를 넘을 수 없다. 두 한도를 모두 지키면서
+// CATEGORY_ORDER 순서상 앞쪽 카테고리를 우선하고, 예산이 부족하면 뒤쪽 카테고리부터 줄인다.
+function assembleEmbeds(drafts: EmbedDraft[]): DiscordEmbed[] {
+  const embeds: DiscordEmbed[] = [];
+  let remaining = DISCORD_MESSAGE_TOTAL_LIMIT;
 
-  return {
-    title,
-    description,
-    color: CATEGORY_COLOR[category],
-  };
+  for (const draft of drafts) {
+    if (draft.sections.length === 0) continue;
+    if (draft.title.length >= remaining) break;
+
+    const descLimit = Math.min(
+      DISCORD_EMBED_DESCRIPTION_LIMIT,
+      remaining - draft.title.length
+    );
+    const description = packSections(draft.sections, descLimit).join("\n\n");
+    if (!description) continue;
+
+    embeds.push({ title: draft.title, description, color: draft.color });
+    remaining -= draft.title.length + description.length;
+  }
+
+  return embeds;
 }
 
 async function sendToDiscord(
@@ -176,11 +211,11 @@ async function main(): Promise<void> {
   const todayNews = filterCollectedToday(news);
   const grouped = groupByCategory(todayNews);
 
-  const allEmbeds: DiscordEmbed[] = [];
+  const drafts: EmbedDraft[] = [];
   for (const category of CATEGORY_ORDER) {
-    allEmbeds.push(await buildEmbed(category, grouped[category]));
+    drafts.push(await buildEmbedDraft(category, grouped[category]));
   }
-  const embeds = allEmbeds.filter((embed) => embed.description.length > 0);
+  const embeds = assembleEmbeds(drafts);
 
   if (embeds.length === 0) {
     console.log("[send-discord] 오늘 수집된 뉴스가 없어 전송을 건너뜁니다.");
