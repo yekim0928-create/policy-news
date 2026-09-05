@@ -4,7 +4,14 @@ import path from "node:path";
 import type { Category } from "@/config/sources";
 import type { NewsItem } from "@/types/news";
 
-const CATEGORY_ORDER: Category[] = ["AI·ICT", "과학기술", "경제"];
+const CATEGORY_ORDER: Category[] = [
+  "AI이슈",
+  "경제",
+  "창업",
+  "수익화·크리에이터",
+  "정부지원정책",
+  "UX/UI",
+];
 const MAX_ITEMS_PER_CATEGORY = 12;
 
 async function loadNews(): Promise<NewsItem[]> {
@@ -79,7 +86,7 @@ export default async function Home() {
             Policy Brief
           </h1>
           <p className="mt-3 text-base text-muted-foreground">
-            AI · 과학기술 · 경제 정책 뉴스를 한곳에서
+            AI이슈 · 경제 · 창업 · 수익화·크리에이터 · 정부지원정책 · UX/UI 뉴스를 한곳에서
           </p>
         </div>
       </header>

@@ -11,8 +11,42 @@ const DATA_FILE = path.join(DATA_DIR, "news.json");
 const MAX_ITEMS = 2000;
 
 const REQUEST_TIMEOUT_MS = 15000;
+const REQUEST_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+  Accept: "application/rss+xml, application/xml, text/xml, */*",
+};
 
 const parser = new Parser({ timeout: REQUEST_TIMEOUT_MS });
+
+// rss-parser의 parseURL은 내부적으로 raw http.get을 사용해 User-Agent를 차단하는
+// 서버(WAF)나 gzip 압축 응답을 제대로 처리하지 못한다. fetch로 직접 받아온 뒤
+// 문자열을 파싱하면 두 문제를 모두 우회할 수 있다.
+async function fetchFeedXml(url: string): Promise<string> {
+  const response = await fetch(url, {
+    headers: REQUEST_HEADERS,
+    signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+
+  return response.text();
+}
+
+// 기본 rss-parser 요청(User-Agent: "rss-parser")으로 먼저 시도하고,
+// 실패하면 브라우저 User-Agent로 직접 fetch한 뒤 파싱한다.
+// (일부 서버는 정체불명의 User-Agent를, 일부 서버는 반대로 fetch 클라이언트를 차단하기 때문에
+// 두 방식을 순서대로 시도해 소스별 특이사항을 하드코딩하지 않고 대응한다.)
+async function fetchFeed(url: string): Promise<Parser.Output<Record<string, unknown>>> {
+  try {
+    return await parser.parseURL(url);
+  } catch {
+    const xml = await fetchFeedXml(url);
+    return parser.parseString(xml);
+  }
+}
 
 // URL 또는 guid 문자열을 sha256 해시로 변환해 뉴스 항목의 고유 id로 사용한다.
 function createId(value: string): string {
@@ -34,7 +68,7 @@ async function loadExistingNews(): Promise<NewsItem[]> {
 async function collectFromSource(
   source: (typeof NEWS_SOURCES)[number]
 ): Promise<NewsItem[]> {
-  const feed = await parser.parseURL(source.url);
+  const feed = await fetchFeed(source.url);
   const collectedAt = new Date().toISOString();
 
   return (feed.items ?? []).map((item) => {

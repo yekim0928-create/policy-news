@@ -4,15 +4,36 @@ import path from "node:path";
 import type { Category } from "../config/sources";
 import type { NewsItem } from "../types/news";
 
-const CATEGORY_ORDER: Category[] = ["AI·ICT", "과학기술", "경제"];
+const CATEGORY_ORDER: Category[] = [
+  "AI이슈",
+  "경제",
+  "창업",
+  "수익화·크리에이터",
+  "정부지원정책",
+  "UX/UI",
+];
 const MAX_ITEMS_PER_CATEGORY = 5;
 const SEOUL_TIME_ZONE = "Asia/Seoul";
 
 const CATEGORY_COLOR: Record<Category, number> = {
-  "AI·ICT": 0x1d4ed8,
-  과학기술: 0x0ea5e9,
-  경제: 0x16a34a,
+  "AI이슈": 0x1d4ed8,
+  "경제": 0x16a34a,
+  "창업": 0xf59e0b,
+  "수익화·크리에이터": 0xd946ef,
+  "정부지원정책": 0x0ea5e9,
+  "UX/UI": 0x64748b,
 };
+
+const CATEGORY_EMOJI: Record<Category, string> = {
+  "AI이슈": "🤖",
+  "경제": "💰",
+  "창업": "🚀",
+  "수익화·크리에이터": "🎥",
+  "정부지원정책": "🏛️",
+  "UX/UI": "🎨",
+};
+
+const BRIEF_TITLE = "📌 Daily Brief";
 
 interface DiscordEmbed {
   title: string;
@@ -69,7 +90,7 @@ function buildEmbed(category: Category, items: NewsItem[]): DiscordEmbed {
     .join("\n\n");
 
   return {
-    title: category,
+    title: `${CATEGORY_EMOJI[category]} ${category}`,
     description,
     color: CATEGORY_COLOR[category],
   };
@@ -77,12 +98,13 @@ function buildEmbed(category: Category, items: NewsItem[]): DiscordEmbed {
 
 async function sendToDiscord(
   webhookUrl: string,
+  content: string,
   embeds: DiscordEmbed[]
 ): Promise<void> {
   const response = await fetch(webhookUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ embeds }),
+    body: JSON.stringify({ content, embeds }),
   });
 
   if (!response.ok) {
@@ -112,7 +134,9 @@ async function main(): Promise<void> {
     return;
   }
 
-  await sendToDiscord(webhookUrl, embeds);
+  const content = `${BRIEF_TITLE}\n오늘 수집된 기사: 총 ${todayNews.length}건`;
+
+  await sendToDiscord(webhookUrl, content, embeds);
 
   console.log(`[send-discord] Discord 전송 완료: 총 ${embeds.length}개 카테고리`);
 }
