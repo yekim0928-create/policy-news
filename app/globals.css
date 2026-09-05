@@ -10,6 +10,8 @@
   --card-hover-border: #93c5fd;
   --primary: #1d4ed8;
   --primary-foreground: #ffffff;
+  /* 히어로는 브랜드 고정 색으로, 라이트/다크 모드와 무관하게 항상 동일하게 유지한다. */
+  --hero-bg: #0f3d2e;
 }
 
 @theme inline {
@@ -21,6 +23,7 @@
   --color-card: var(--card);
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
+  --color-hero: var(--hero-bg);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -68,4 +71,58 @@ body {
 
 .news-source {
   color: var(--primary);
+}
+
+.step-card {
+  border: 1px solid transparent;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.step-card:hover {
+  border-color: var(--border);
+  box-shadow: 0 12px 30px -14px rgba(15, 61, 46, 0.45);
+  transform: translateY(-2px);
+}
+
+.marquee {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 5%,
+    black 95%,
+    transparent
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 5%,
+    black 95%,
+    transparent
+  );
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 40s linear infinite;
+}
+
+.marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+@keyframes marquee-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+  }
 }
