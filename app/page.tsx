@@ -43,6 +43,13 @@ function truncate(text: string, maxLength: number): string {
     : text;
 }
 
+// AI 요약(summary)이 있으면 그대로 쓰고, 없으면 description을 정리해 대신 보여준다.
+function pickSummaryText(item: NewsItem): string | undefined {
+  if (item.summary) return item.summary;
+  if (item.description) return truncate(stripHtml(item.description), 120);
+  return undefined;
+}
+
 function formatDate(iso: string): string {
   const date = new Date(iso);
   if (Number.isNaN(date.getTime())) {
@@ -108,33 +115,37 @@ export default async function Home() {
                 </p>
               ) : (
                 <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
-                  {items.map((item) => (
-                    <a
-                      key={item.id}
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="news-card flex flex-col gap-2 rounded-xl p-5"
-                    >
-                      <span className="news-source text-xs font-semibold">
-                        {item.source}
-                      </span>
-                      <h3 className="line-clamp-2 text-base font-semibold text-foreground">
-                        {item.title}
-                      </h3>
-                      {item.description ? (
-                        <p className="line-clamp-3 text-sm text-muted-foreground">
-                          {truncate(stripHtml(item.description), 120)}
-                        </p>
-                      ) : null}
-                      <span className="text-xs text-muted-foreground">
-                        {formatDate(item.publishedAt)}
-                      </span>
-                      <span className="mt-auto text-sm font-medium text-primary">
-                        원문 보기 →
-                      </span>
-                    </a>
-                  ))}
+                  {items.map((item) => {
+                    const summaryText = pickSummaryText(item);
+
+                    return (
+                      <a
+                        key={item.id}
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="news-card flex flex-col gap-2 rounded-xl p-5"
+                      >
+                        <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                          <span className="news-source font-semibold">
+                            {item.source}
+                          </span>
+                          <span>{formatDate(item.publishedAt)}</span>
+                        </div>
+                        <h3 className="line-clamp-2 text-base font-semibold text-foreground">
+                          {item.title}
+                        </h3>
+                        {summaryText ? (
+                          <p className="line-clamp-3 text-sm text-muted-foreground">
+                            {summaryText}
+                          </p>
+                        ) : null}
+                        <span className="mt-auto text-sm font-medium text-primary">
+                          원문 보기 →
+                        </span>
+                      </a>
+                    );
+                  })}
                 </div>
               )}
             </section>

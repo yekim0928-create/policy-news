@@ -8,4 +8,5 @@ export interface NewsItem {
   publishedAt: string; // 원문 발행 일시
   collectedAt: string; // 수집(크롤링) 일시
   description?: string; // 요약 또는 본문 일부 (선택)
+  summary?: string; // AI가 기사 내용을 2~3줄로 요약한 결과 (선택)
 }

@@ -4,11 +4,13 @@ import path from "node:path";
 import Parser from "rss-parser";
 
 import { NEWS_SOURCES } from "../config/sources";
+import { summarizeArticle } from "../lib/summarize";
 import type { NewsItem } from "../types/news";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const DATA_FILE = path.join(DATA_DIR, "news.json");
 const MAX_ITEMS = 2000;
+const SUMMARY_CONCURRENCY = 3;
 
 const REQUEST_TIMEOUT_MS = 15000;
 const REQUEST_HEADERS = {
@@ -89,17 +91,79 @@ async function collectFromSource(
   });
 }
 
-// id(URL 또는 guid 기반 해시)가 같은 항목은 하나만 남긴다. 뒤에 오는 항목(새로 수집한 결과)이 우선한다.
-function dedupeById(items: NewsItem[]): NewsItem[] {
-  const byId = new Map<string, NewsItem>();
-  for (const item of items) {
-    byId.set(item.id, item);
+// items를 최대 limit개까지 동시에 worker로 처리한다 (AI 요약 API에 과도한 동시 요청을 보내지 않기 위함).
+async function mapWithConcurrency<T, R>(
+  items: T[],
+  limit: number,
+  worker: (item: T) => Promise<R>
+): Promise<R[]> {
+  const results: R[] = new Array(items.length);
+  let nextIndex = 0;
+
+  async function runWorker(): Promise<void> {
+    while (true) {
+      const current = nextIndex++;
+      if (current >= items.length) return;
+      results[current] = await worker(items[current]);
+    }
   }
-  return Array.from(byId.values());
+
+  await Promise.all(
+    Array.from({ length: Math.min(limit, items.length) }, runWorker)
+  );
+
+  return results;
+}
+
+// AI 요약이 없거나 실패했을 때 description을 정리해 대체 요약으로 쓴다. description도 없으면 빈 문자열.
+function fallbackSummary(description?: string): string {
+  if (!description) return "";
+  const cleaned = description.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+  if (!cleaned) return "";
+  return cleaned.length > 200 ? `${cleaned.slice(0, 200).trimEnd()}…` : cleaned;
+}
+
+// 신규 기사 한 건을 요약한다. AI 요약 실패는 여기서 흡수하고 fallbackSummary로 대체하여
+// 이 함수를 호출하는 상위 수집 흐름에는 절대 예외를 전파하지 않는다.
+async function attachSummary(item: NewsItem): Promise<NewsItem> {
+  try {
+    const summary = await summarizeArticle(item.title, item.description);
+    return { ...item, summary: summary ?? fallbackSummary(item.description) };
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.log(
+      `[collect-news] 요약 실패 (${item.sourceId}) "${item.title}": ${message}`
+    );
+    return { ...item, summary: fallbackSummary(item.description) };
+  }
+}
+
+// 기존 기사와 새로 수집한 기사를 id(URL 또는 guid 기반) 기준으로 합친다.
+// 제목/설명 등은 새로 수집한 값으로 갱신하되, summary는 이번에 새로 계산된 값이 없으면
+// 기존 값을 그대로 보존한다 (이미 요약된 기존 기사는 재요약하지 않기 위함).
+function mergeNews(existing: NewsItem[], collected: NewsItem[]): NewsItem[] {
+  const merged = new Map<string, NewsItem>();
+
+  for (const item of existing) {
+    merged.set(item.id, item);
+  }
+
+  for (const item of collected) {
+    const previous = merged.get(item.id);
+    merged.set(item.id, {
+      ...item,
+      summary: item.summary ?? previous?.summary,
+    });
+  }
+
+  return Array.from(merged.values());
 }
 
 async function main(): Promise<void> {
   console.log(`[collect-news] 수집 시작: 총 ${NEWS_SOURCES.length}개 소스`);
+
+  const existing = await loadExistingNews();
+  const existingIds = new Set(existing.map((item) => item.id));
 
   const collected: NewsItem[] = [];
 
@@ -118,8 +182,28 @@ async function main(): Promise<void> {
     }
   }
 
-  const existing = await loadExistingNews();
-  const merged = dedupeById([...existing, ...collected]);
+  // 기존 data/news.json에 없던(URL/guid 기준 신규) 기사만 요약 대상으로 삼는다.
+  const newItems = collected.filter((item) => !existingIds.has(item.id));
+  console.log(
+    `[collect-news] 신규 기사 ${newItems.length}건 요약 시작 (동시 처리 ${SUMMARY_CONCURRENCY}건)`
+  );
+
+  const summarized = await mapWithConcurrency(
+    newItems,
+    SUMMARY_CONCURRENCY,
+    attachSummary
+  );
+  const summarizedById = new Map(summarized.map((item) => [item.id, item]));
+  const collectedWithSummary = collected.map(
+    (item) => summarizedById.get(item.id) ?? item
+  );
+
+  const emptyCount = summarized.filter((item) => !item.summary).length;
+  console.log(
+    `[collect-news] 요약 처리 완료: 총 ${summarized.length}건 (요약 없음 ${emptyCount}건)`
+  );
+
+  const merged = mergeNews(existing, collectedWithSummary);
 
   merged.sort((a, b) => {
     const aTime = new Date(a.publishedAt).getTime();

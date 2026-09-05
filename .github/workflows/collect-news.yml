@@ -24,6 +24,8 @@ jobs:
         run: npm ci
 
       - name: Collect RSS news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run collect
 
       - name: Commit and push if changed

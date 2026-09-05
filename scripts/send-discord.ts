@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 
+import { summarizeCategoryOverview } from "../lib/summarize";
 import type { Category } from "../config/sources";
 import type { NewsItem } from "../types/news";
 
@@ -12,7 +13,7 @@ const CATEGORY_ORDER: Category[] = [
   "정부지원정책",
   "UX/UI",
 ];
-const MAX_ITEMS_PER_CATEGORY = 5;
+const TOP_ARTICLE_COUNT = 3;
 const SEOUL_TIME_ZONE = "Asia/Seoul";
 
 const CATEGORY_COLOR: Record<Category, number> = {
@@ -34,6 +35,11 @@ const CATEGORY_EMOJI: Record<Category, string> = {
 };
 
 const BRIEF_TITLE = "📌 Daily Brief";
+
+// Discord embed의 description은 최대 4096자다. 기사 요약이 길어져도 안전하게 잘리도록
+// 기사 한 건당 요약 길이도 별도로 제한한다.
+const DISCORD_EMBED_DESCRIPTION_LIMIT = 4096;
+const SUMMARY_MAX_LENGTH = 300;
 
 interface DiscordEmbed {
   title: string;
@@ -82,15 +88,60 @@ function escapeMarkdown(text: string): string {
   return text.replace(/\\/g, "\\\\").replace(/\[/g, "\\[").replace(/\]/g, "\\]");
 }
 
-function buildEmbed(category: Category, items: NewsItem[]): DiscordEmbed {
-  const description = items
-    .map(
-      (item) => `**[${escapeMarkdown(item.title)}](${item.link})**\n${item.source}`
-    )
-    .join("\n\n");
+function truncateText(text: string, maxLength: number): string {
+  return text.length > maxLength ? `${text.slice(0, maxLength).trimEnd()}…` : text;
+}
+
+// summary가 있으면 우선 사용하고, 없으면 description으로 대체한다.
+// 줄바꿈은 공백으로 정리하고 길이를 제한해 Discord 렌더링과 embed 길이 제한을 안전하게 지킨다.
+function pickArticleSummary(item: NewsItem): string {
+  const raw = item.summary || item.description || "";
+  const normalized = raw.replace(/\s+/g, " ").trim();
+  return truncateText(normalized, SUMMARY_MAX_LENGTH);
+}
+
+// 카테고리 안의 오늘자 기사 전체(items)로 종합 흐름 요약을 만들고,
+// 그중 최신 TOP_ARTICLE_COUNT건만 본문에 나열한다.
+async function buildEmbed(
+  category: Category,
+  items: NewsItem[]
+): Promise<DiscordEmbed> {
+  let overview: string | undefined;
+  try {
+    overview = await summarizeCategoryOverview(
+      items.map((item) => ({ title: item.title, summary: item.summary }))
+    );
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.log(`[send-discord] 카테고리 종합 요약 실패 (${category}): ${message}`);
+  }
+
+  const topItems = items.slice(0, TOP_ARTICLE_COUNT);
+  const articleLines = topItems.map((item, index) => {
+    const summary = pickArticleSummary(item);
+    const summaryLine = summary ? `\n${summary}` : "";
+    return `**${index + 1}. [${escapeMarkdown(item.title)}](${item.link})**${summaryLine}\n출처: ${item.source}`;
+  });
+
+  // 요약 길이 제한(SUMMARY_MAX_LENGTH) 덕분에 평소에는 초과할 일이 없지만,
+  // 혹시 모를 상황에 대비해 4096자 한도를 넘으면 뒤쪽 기사부터 통째로 제외한다
+  // (문자열을 임의 위치에서 자르면 마크다운 링크가 깨질 수 있기 때문). overview는 항상 유지한다.
+  const kept: string[] = overview ? [overview] : [];
+  let length = kept.length > 0 ? kept[0].length : 0;
+  for (const line of articleLines) {
+    const nextLength = length + (kept.length > 0 ? 2 : 0) + line.length;
+    if (nextLength > DISCORD_EMBED_DESCRIPTION_LIMIT) break;
+    kept.push(line);
+    length = nextLength;
+  }
+  const description = kept.join("\n\n");
+
+  const title = overview
+    ? `${CATEGORY_EMOJI[category]} ${category} | 오늘의 흐름`
+    : `${CATEGORY_EMOJI[category]} ${category}`;
 
   return {
-    title: `${CATEGORY_EMOJI[category]} ${category}`,
+    title,
     description,
     color: CATEGORY_COLOR[category],
   };
@@ -125,9 +176,11 @@ async function main(): Promise<void> {
   const todayNews = filterCollectedToday(news);
   const grouped = groupByCategory(todayNews);
 
-  const embeds = CATEGORY_ORDER.map((category) =>
-    buildEmbed(category, grouped[category].slice(0, MAX_ITEMS_PER_CATEGORY))
-  ).filter((embed) => embed.description.length > 0);
+  const allEmbeds: DiscordEmbed[] = [];
+  for (const category of CATEGORY_ORDER) {
+    allEmbeds.push(await buildEmbed(category, grouped[category]));
+  }
+  const embeds = allEmbeds.filter((embed) => embed.description.length > 0);
 
   if (embeds.length === 0) {
     console.log("[send-discord] 오늘 수집된 뉴스가 없어 전송을 건너뜁니다.");
