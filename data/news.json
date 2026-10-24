@@ -1,5 +1,77 @@
 [
   {
+    "id": "124dc3977152598f47b078861e46cc7a45e876c3a78e436a7d29e0460f6e496c",
+    "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T20:38:59.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일(현지시간) 공개된 알렉스 캔트로위츠의 ‘빅 테크놀로지 팟캐스트’ 인터뷰에서 “우리 클라우드 사업은 첨단 AI 개발을 지원하기 위해 컴퓨팅 자원을 조정하면서 단기 매출을 일부 포기하고 있다”고 말했다.구글의 컴퓨팅 배분에",
+    "summary": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일(현지시간) 공개된 알렉스 캔트로위츠의 ‘…"
+  },
+  {
+    "id": "60d128cfd3db1cd9ce4189c02b6a604476633b82c538a3fd44acd77a9ad949a0",
+    "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T19:53:21.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Signal)' 메시지였던 것으로 나타났다. 다만 연구원들은 기밀 유출을 부인하고 있어 실제 유출 여부와 해고의 정당성을 둘러싼 논란은 이어지고 있다.월스트리트저널(WSJ)은 22일(현지시간) 오픈AI가 토메크 코르박과 미키타",
+    "summary": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Signal)' 메시지였던 것으로 나타났다. 다만…"
+  },
+  {
+    "id": "72a92b7deb5e620fcf553674be445cc25e1ec6da02e8e0bf0803736922aa459c",
+    "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T19:13:05.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비스의 설정 오류를 악용해 외부 챗봇에",
+    "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개…"
+  },
+  {
+    "id": "3d0ec6858acc9825db65b66d869f9afeaa79d68dfae5ced2141c887c56a2f86c",
+    "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T18:37:43.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 분담시키고, 실제 AI 수요에 맞춰 투자 규모를 조절한다는 계획이다.정석근 SK텔레콤 AI CIC장 겸 SK하이퍼 대표는 23일(현지시간) 블룸버그TV와의 인터뷰에서 2035년까지 국내에 총 15GW 규모의 AI 데이터센",
+    "summary": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 분담시키고, 실제 AI 수요에 맞춰 투자…"
+  },
+  {
+    "id": "9bd76074adf595f1e2defb278933bf6a8b6956cc27606bbedff01f004af7e676",
+    "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T18:03:54.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서비스, 즉 '관리형 클로드 서비스'를 출시했다고 밝혔다. 이번 서비스는 기존 구글 클라우드 IAM(Identity and Access Management) 인증 정보를 지원하며,",
+    "summary": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서…"
+  },
+  {
+    "id": "9a3db4d26c28c232d1613b2d87597619cb2ad01d637280a01509fcddc1a3f189",
+    "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T17:30:12.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 실행과 브라우저 조작, 기업 업무 자동화 과정에서 발생할 수 있는 보안 위험을 원천 차단하는 것이 핵심이다.구글 클라우드는 22일(현지시간) AGNTCon·MCPCon 행사에서 ‘",
+    "summary": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드…"
+  },
+  {
     "id": "37a61ab6982176261d384c36345ff94b442ef161de20ac913eb621780fb813f7",
     "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216612",
@@ -7,9 +79,21 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T17:01:33.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리증명 전문 시어럼(Theorem)과 협력해 구글의 오픈소스 소프트웨어 테스트 프로젝트인 'OSS-퍼즈(OSS-Fuzz)'에 등록된 라이브러리를 대상으로 대규모 형식 검증(Formal Verification)을 진행했다고",
     "summary": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리증명 전문 시어럼(Theorem)과 협력해…"
+  },
+  {
+    "id": "6eec97db24bf97375a059c2f6936ee3ff22903037b0018a94af6a66be4276289",
+    "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+    "source": "AI타임스",
+    "sourceId": "aitimes",
+    "category": "AI이슈",
+    "publishedAt": "2026-10-24T16:55:00.000Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
+    "description": "중국 국영 통신회사 차이나텔레콤의 네트워크에서 대중국 수출이 금지된 엔비디아의 ‘블랙웰 울트라 B300’ GPU 32개가 포착됐다. 중국 기업의 첨단 AI 칩 확보 정황이 거듭 드러나면서 미국 수출 통제의 실효성이 다시 도마에 올랐다. 다만 이번에 발견된 칩의 실제 설치 장소와 입수 경로는 확인되지 않았다.디 인포메이션은 22일(현지시간) 이스라엘 보안업체 라바가 외부에 노출된 모니터링 시스템을 통해 차이나텔레콤 네트워크에 연결된 B300 32개를 확인했다고 전했다. B300은 엔비디아의 고성능 데이터센터용 GPU로, 중국 판매가",
+    "summary": "중국 국영 통신회사 차이나텔레콤의 네트워크에서 대중국 수출이 금지된 엔비디아의 ‘블랙웰 울트라 B300’ GPU 32개가 포착됐다. 중국 기업의 첨단 AI 칩 확보 정황이 거듭 드러나면서 미국 수출 통제의 실효성이 다시 도마에 올랐다. 다만 이번에 발견된 칩의 실제 설치 장소와 입수 경로는 확인되지 않았다.디 인포메이션은 22일(현지시간) 이스라엘 보안업체…"
   },
   {
     "id": "1d1e8969a308e39c2aaed464633c3c9a7062413a6bd2929ea86bbbdab24625c9",
@@ -19,7 +103,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T16:18:18.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고 밝혔다. 이 도구는 별도의 의존성 설치 없이 실행할 수 있는 바이너리 형태로 제공되며, 맥OS와 리눅스, 윈도우에서 사용할 수 있다. 소스 코드로 직접 설치하는 방식도 지원한다.이",
     "summary": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고…"
   },
@@ -31,7 +115,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T16:07:08.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본 이용자는 iOS·안드로이드 앱과 웹사이트를 통해 뮤즈를 이용할 수 있다.메타는 일본 출시에 맞춰 중고거래 플랫폼 메루카리, 자산관리 서비스 머니포워드 ME, 티켓 예매 서비스 티",
     "summary": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본…"
   },
@@ -43,7 +127,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T11:49:09.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "앤트로픽의 '클로드 미소스 5'가 사람에게 실제 피해를 줄 수 있다는 경고를 받고도 사이버 공격을 지속한 것으로 나타났다. 공격 대상이 실제 인물이라는 증거가 반복적으로 제시됐지만, 이를 무시하고 악성 코드를 유포하려 시도했다. AI 모델이 작업을 시작한 뒤에는 위험성을 인식하고도 행동을 중단하지 않는 정렬 실패(misalignment) 문제가 드러났다는 분석이다.영국 AI 보안 연구기관인 AI보안연구소(UK AISI)는 23일(현지시간) 미소스 5의 사이버보안 평가 과정에서 발생한 사고를 분석한 기술 보고서를 공개했다. 앤트로픽도",
     "summary": "앤트로픽의 '클로드 미소스 5'가 사람에게 실제 피해를 줄 수 있다는 경고를 받고도 사이버 공격을 지속한 것으로 나타났다. 공격 대상이 실제 인물이라는 증거가 반복적으로 제시됐지만, 이를 무시하고 악성 코드를 유포하려 시도했다. AI 모델이 작업을 시작한 뒤에는 위험성을 인식하고도 행동을 중단하지 않는 정렬 실패(misalignment) 문제가 드러났다는…"
   },
@@ -55,7 +139,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T11:43:39.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "중국의 딥시크와 미니맥스가 오픈소스 AI 모델의 해외 공개와 라이선스 제공을 위한 수출 등록 절차를 마쳤다. 중국 정부가 AI 기술 수출 통제 강화를 추진하는 가운데, 자국 기업의 해외 사업과 AI 모델 상용화는 계속 허용하겠다는 방침을 드러낸 것으로 풀이된다.중국 관영 CCTV 계열 소셜미디어 계정인 위위안탄톈은 22일 딥시크와 미니맥스가 AI 모델의 해외 사용 승인을 받았다고 발표했다.미니맥스도 이날 성명을 통해 중국 상무부의 기술 수출 등록을 완료했다고 밝혔다. 등록 대상은 최근 출시했거나 앞으로 공개할 일부 모델로, 오픈소스",
     "summary": "중국의 딥시크와 미니맥스가 오픈소스 AI 모델의 해외 공개와 라이선스 제공을 위한 수출 등록 절차를 마쳤다. 중국 정부가 AI 기술 수출 통제 강화를 추진하는 가운데, 자국 기업의 해외 사업과 AI 모델 상용화는 계속 허용하겠다는 방침을 드러낸 것으로 풀이된다.중국 관영 CCTV 계열 소셜미디어 계정인 위위안탄톈은 22일 딥시크와 미니맥스가 AI 모델의 해…"
   },
@@ -67,9 +151,53 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T11:36:49.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "약을 건네기 전에, 삶을 묻는 사람내면의 지도를 그린다면, 약국 하나쯤 표시해두고 싶습니다. 마음이 어딘가 불편한데 그 자리를 정확히 짚을 수 없을 때 찾아가는 곳. 문을 열고 들어서면 잠시 앉아 하루를 이야기할 수 있는 곳입니다.그런 약국을 만난다면, 여러분은 무슨 말을 먼저 꺼내고 싶으신가요. 요즘 잠을 잘 못 잔다고, 자꾸 소화가 안 된다고, 쉬고 나서도 피곤하다고 말할까요. 그러다 조금 시간이 흐르면 다른 이야기가 나올지도 모르겠습니다. 함께 밥 먹는 사람이 달라졌다는 것. 오래 준비한 일이 끝났는데 이상하게 허전하다는 것.",
     "summary": "약을 건네기 전에, 삶을 묻는 사람내면의 지도를 그린다면, 약국 하나쯤 표시해두고 싶습니다. 마음이 어딘가 불편한데 그 자리를 정확히 짚을 수 없을 때 찾아가는 곳. 문을 열고 들어서면 잠시 앉아 하루를 이야기할 수 있는 곳입니다.그런 약국을 만난다면, 여러분은 무슨 말을 먼저 꺼내고 싶으신가요. 요즘 잠을 잘 못 잔다고, 자꾸 소화가 안 된다고, 쉬고 나…"
+  },
+  {
+    "id": "b354c6e936537cd3564a4949e8b6a5e02ccc395af35fc0078ed1afb71076f694",
+    "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담",
+    "link": "https://www.hankyung.com/article/202610242653i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-24T11:24:58.000Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
+    "summary": ""
+  },
+  {
+    "id": "8430300e6ceda0f0de91e40971b86a0c28ec779f5f335d29c5695876de09c191",
+    "title": "\"이건 꼭 봐야 해\" 엄마 아빠도 줄 섰다…핫플 된 의외의 동네 [류은혁의 유통기한]",
+    "link": "https://www.hankyung.com/article/202610231399i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-24T11:00:08.000Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
+    "summary": ""
+  },
+  {
+    "id": "47ad3193787906f19aac55ef4e2bdb8fce54ec44dd5643eb0dd6a80f5fc1b455",
+    "title": "\"일본도 중국도 건너뛰었다\"…한국인 입맛 잡으러 온 외식 공룡 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610204406i",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-24T11:00:03.000Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
+    "summary": ""
+  },
+  {
+    "id": "d21c78e3cf6799aaf455c08e620be18aaea30d4d47771893996d2218c5273cd6",
+    "title": "'쫄깃·탱탱' 회가 뭐길래 '불티'…25년 횟집 사장님도 놀랐다",
+    "link": "https://www.hankyung.com/article/202610229019g",
+    "source": "한국경제",
+    "sourceId": "hankyung-economy",
+    "category": "경제",
+    "publishedAt": "2026-10-24T10:34:20.000Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
+    "summary": ""
   },
   {
     "id": "e589c7974b32fa26744326788ac9a7cb1afde515e6f9325f3d00ec7bf416a2bb",
@@ -79,7 +207,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T10:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "글·그림 Dr. Alf",
     "summary": "글·그림 Dr. Alf"
   },
@@ -91,7 +219,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T09:30:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "이탈리아의 지난 9월 태양광 발전량이 전년 동월보다 27.1% 증가한 5.32테라와트시(TWh)를 기록했다. 태양광은 재생에너지 전체 발전량의 약 절반을 차지했지만, 수력발전 감소와 전력수요 증가로 재생에너지의 전력수요 충당 비율은 오히려 낮아졌다.이탈리아 송전망 운영사 테르나(Terna)가 지난 21일(현지시간) 발표한 '2026년 9월 전력시스템 월간보고서'에 따르면 태양광 발전량은 지난해 9월 4181기가와트시(GWh)에서 올해 5316GWh로 1135GWh 증가했다.발전량 증가에는 설비 확충이 가장 큰 영향을 미쳤다. 테르나",
     "summary": "이탈리아의 지난 9월 태양광 발전량이 전년 동월보다 27.1% 증가한 5.32테라와트시(TWh)를 기록했다. 태양광은 재생에너지 전체 발전량의 약 절반을 차지했지만, 수력발전 감소와 전력수요 증가로 재생에너지의 전력수요 충당 비율은 오히려 낮아졌다.이탈리아 송전망 운영사 테르나(Terna)가 지난 21일(현지시간) 발표한 '2026년 9월 전력시스템 월간보…"
   },
@@ -103,7 +231,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T09:25:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "잠비아의 태양광발전 누적 설치용량이 1기가와트(GW)를 넘어섰다. 잠비아 정부 발표 기준 2024년 178메가와트(MW)에서 올해 1027MW로 약 5.8배 늘어나면서 당초 올해 말까지 달성하기로 했던 1000MW 보급 목표를 조기에 달성했다. 수력발전에 대한 의존도를 낮추기 위해 추진한 대규모 태양광 사업들이 잇따라 전력망에 연결된 결과다.잠비아 에너지부는 수도 루사카에서 열린 '2026 아프리카 에너지 포럼'의 주요 내용을 8일(현지시간) 발표하며 이 같은 성과를 공개했다. 당시 하카인데 히칠레마 대통령의 연설은 무탈레 날루망고",
     "summary": "잠비아의 태양광발전 누적 설치용량이 1기가와트(GW)를 넘어섰다. 잠비아 정부 발표 기준 2024년 178메가와트(MW)에서 올해 1027MW로 약 5.8배 늘어나면서 당초 올해 말까지 달성하기로 했던 1000MW 보급 목표를 조기에 달성했다. 수력발전에 대한 의존도를 낮추기 위해 추진한 대규모 태양광 사업들이 잇따라 전력망에 연결된 결과다.잠비아 에너지부…"
   },
@@ -115,7 +243,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T09:25:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI 생성 영상광양전통숯불구이축제에서 다회용기 사용을 확대해 일회용품 폐기물 약 3.5톤을 줄인 것으로 추산됐다.광양시는 지난 16일부터 18일까지 광양읍 서천체육공원 일원에서 열린 ‘제22회 광양전통숯불구이축제’에서 다회용기를 운영한 결과 누적 사용량이 31만개에 달했다고 21일 밝혔다.광양시는 이를 통해 일회용품 폐기물 약 3.5톤과 온실가스 약 14톤을 감축한 것으로 추산했다.시는 축제에 앞서 음식 판매·체험 부스 등 입점 업체에 다회용기 사용 방법을 안내하고 행사장에 안내요원을 배치해 이용객의 용기 반납을 지원했다. 사용한",
     "summary": "AI 생성 영상광양전통숯불구이축제에서 다회용기 사용을 확대해 일회용품 폐기물 약 3.5톤을 줄인 것으로 추산됐다.광양시는 지난 16일부터 18일까지 광양읍 서천체육공원 일원에서 열린 ‘제22회 광양전통숯불구이축제’에서 다회용기를 운영한 결과 누적 사용량이 31만개에 달했다고 21일 밝혔다.광양시는 이를 통해 일회용품 폐기물 약 3.5톤과 온실가스 약 14톤…"
   },
@@ -127,7 +255,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T09:15:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI 생성 영상여수가 노인일자리와 취약계층 식사지원을 연계한 공동체사업을 추진한다.여수는 지난 8일 여수시니어클럽 노인일자리 공동체사업단 ‘두부먹자’를 개소하고 신규 사업 ‘굿모닝 여수, 은모닝 밥상, 건강 UP!!’을 추진한다고 22일 밝혔다.학동에 위치한 ‘두부먹자’에는 노인일자리 참여 노인 12명이 근무하며 두부와 반찬 등을 생산·판매한다.사업은 도시락과 밑반찬 지원 등 지역사회 돌봄과도 연계된다. 여수는 1인 가구 노인과 고독사 위험군 등 500명에게 도시락과 밑반찬을 지원하고 안부를 확인해 도움이 필요한 이웃을 살필 계획이",
     "summary": "AI 생성 영상여수가 노인일자리와 취약계층 식사지원을 연계한 공동체사업을 추진한다.여수는 지난 8일 여수시니어클럽 노인일자리 공동체사업단 ‘두부먹자’를 개소하고 신규 사업 ‘굿모닝 여수, 은모닝 밥상, 건강 UP!!’을 추진한다고 22일 밝혔다.학동에 위치한 ‘두부먹자’에는 노인일자리 참여 노인 12명이 근무하며 두부와 반찬 등을 생산·판매한다.사업은 도시…"
   },
@@ -139,7 +267,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T09:05:59.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참여자들의 게시물을 인용, 카본이 일부 파트너에게 제공되고 AI 모델 비교 플랫폼 LM아레나에서도 시험되고 있다고 전했다.카본은 이달 초 구글 내부 코딩 도구 ‘젯스키’에서 직원들이",
     "summary": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참…"
   },
@@ -151,7 +279,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T08:22:34.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "문샷 AI의 새 플래그십 모델 ‘키미 K3.1 프로(Kimi K3.1 Pro)’가 아티피셜 애널리시스 성능 평가(AAII)에서 전체 4위, 오픈 모델 중 1위에 올랐다. 금융 분석과 코딩 능력을 끌어올려 미국 최첨단 모델과의 격차를 좁혔다. 모델 크기를 유지하면서 사후학습을 강화해 성능을 높인 것이 특징이다.문샷은 23일(현지시간) 공식 발표를 통해 K3.1 시리즈의 첫 모델인 키미 K3.1 프로를 출시했다. 키미 웹사이트와 모바일 앱, 업무용 '키미 워크', 코딩 도구 '키미 코드', API에서 이용할 수 있으며, 전체 모델 가중",
     "summary": "문샷 AI의 새 플래그십 모델 ‘키미 K3.1 프로(Kimi K3.1 Pro)’가 아티피셜 애널리시스 성능 평가(AAII)에서 전체 4위, 오픈 모델 중 1위에 올랐다. 금융 분석과 코딩 능력을 끌어올려 미국 최첨단 모델과의 격차를 좁혔다. 모델 크기를 유지하면서 사후학습을 강화해 성능을 높인 것이 특징이다.문샷은 23일(현지시간) 공식 발표를 통해 K3.…"
   },
@@ -163,7 +291,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T07:22:58.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -174,7 +302,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T07:00:03.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -185,19 +313,19 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-24T07:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 줄이기 위한 시장이 생겨나고 있습니다.월스트리트저널(WSJ)은 22일(현지시간) 미국 스타트업 실리콘 데이터(Silicon Data)의 카르멘 리 창업자가 세계 최대 파생상품 거래소 운영사 CME 그룹과 손잡고 컴퓨팅 가",
     "summary": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 줄이기 위한 시장이 생겨나고 있습니다.월스…"
   },
   {
     "id": "8175b3cb7c4117a7e5e063eadc1f374a3579416ddf864bda0a3ba0ee34d318c0",
-    "title": "Ethan Klein drops all ownership and financial stakes in h3h3 after cheating on wife and co-creator Hila",
+    "title": "Ethan Klein to drop all ownership and financial stakes in h3h3 after cheating on wife and co-creator Hila",
     "link": "https://www.tubefilter.com/2026/10/24/ethan-klein-hila-klein-cheating-h3h3productions-podcast/",
     "source": "Tubefilter",
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-24T06:26:50.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Ethan Klein says he is “urgently” working with wife Hila to remove all his ownership and financial stakes in their podcasts, businesses, and “any joint venture that I would profit from” after she discovered he’d been cheating on her. In an Oct. 22 Instagram post, Hila wrote that she is “living a nightmare I can’t […]\nVisit Tubefilter  for more great stories.",
     "summary": "Ethan Klein says he is “urgently” working with wife Hila to remove all his ownership and financial stakes in their podcasts, businesses, and “any joint venture that I would profit from” after she disc…"
   },
@@ -209,7 +337,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T06:00:01.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -220,7 +348,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T04:28:46.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -231,7 +359,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T04:00:04.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -242,7 +370,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T03:53:52.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "위험회피 심리 커졌지만 1320원대 달러 매도세 지속에 추가 상승 전망도최근 인공지능(AI) 투자 우려와 국제유가 상승 등 원화 약세를 부추길 만한 대외 여건에도 원화값이 가파른 ..",
     "summary": "위험회피 심리 커졌지만 1320원대 달러 매도세 지속에 추가 상승 전망도최근 인공지능(AI) 투자 우려와 국제유가 상승 등 원화 약세를 부추길 만한 대외 여건에도 원화값이 가파른 .."
   },
@@ -254,7 +382,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T03:09:24.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -265,7 +393,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T02:40:38.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -276,7 +404,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T02:09:44.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "원·엔 환율 100엔당 840원대 日 금리 인상 기대는 엔화 강세 요인 국내 환전 비용은 원화 움직임도 변수원엔 환율이 100엔당 840원대에서 움직이는 가운데 일본은행의 추가 금..",
     "summary": "원·엔 환율 100엔당 840원대 日 금리 인상 기대는 엔화 강세 요인 국내 환전 비용은 원화 움직임도 변수원엔 환율이 100엔당 840원대에서 움직이는 가운데 일본은행의 추가 금.."
   },
@@ -299,7 +427,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-24T00:00:02.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -310,7 +438,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-23T23:17:18.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry.\nThis week, a Twitch streamer-turned-rapper is taking on the White House, the rules are the rules and the facts are the facts (in court), and subscriber counts become a guessing game.\nPolitics as usual\nPlaqueBoyMax doesn't want Trump to use his song in a White House social post. The President loves to use pop songs in his posts without getting the artists' consent first. A song produced by PlaqueBoyMax received that treatment, and the fiery streamer responded with a profane response of his own. It would seem that Trump is running out of songs to steal from their creators.\nVisit Tubefilter  for more great stories.",
     "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a Twitch streamer-turned-rapper is taking…"
   },
@@ -322,7 +450,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T23:07:55.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -333,7 +461,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T23:00:06.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -344,7 +472,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T22:21:00.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -355,7 +483,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-23T22:09:34.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "YouTube is preparing to raise the entry threshold for its Partner Program, but at the same time, it is testing new ways for creators to make money. The platform quietly announced the launch of a Bonus Program that will deliver additional earnings to select Partner Program enrollees who consistently upload short-form content.\nAs with many new YouTube features, the YouTube Shorts Bonus Program was revealed in a Creator Insider video hosted by Rene Ritchie, YouTube's current Creator Liaison. \"What if you could get paid a bonus just for keeping your Shorts schedule consistent?\" Ritchie asked. He added that creators who are part of the test can take home \"something extra based on your viewership.\"\nVisit Tubefilter  for more great stories.",
     "summary": "YouTube is preparing to raise the entry threshold for its Partner Program, but at the same time, it is testing new ways for creators to make money. The platform quietly announced the launch of a Bonus…"
   },
@@ -367,7 +495,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T22:00:02.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -378,7 +506,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T21:12:57.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "금값 계란에 산란계 사육 급증 3분기 8700만 마리까지 늘어국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 ..",
     "summary": "금값 계란에 산란계 사육 급증 3분기 8700만 마리까지 늘어국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 .."
   },
@@ -390,7 +518,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T21:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
     "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs."
   },
@@ -402,7 +530,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-23T20:30:29.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Despite its name, Change.org has developed a reputation as an ineffective platform. Many of its petitions promote so-called \"slacktivism\" rather than motivating activists to work toward justice in their communities.\nWith new leadership in charge and new technology on board, Change.org is looking to turn over a new leaf. The relaunched version of the 19-year-old platform will focus on local politics while encouraging users to use social media posts, videos, and AI-generated text as the foundations of their petitions.\nVisit Tubefilter  for more great stories.",
     "summary": "Despite its name, Change.org has developed a reputation as an ineffective platform. Many of its petitions promote so-called \"slacktivism\" rather than motivating activists to work toward justice in the…"
   },
@@ -414,7 +542,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T19:35:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
     "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”"
   },
@@ -426,7 +554,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T18:59:59.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간) 공식 발표를 통해 디시전스 API를 모든 고객에게 정식 제공한다고 밝혔다. 이 API는 'GPT-6 루나'를 기반으로 하며, 기존 '리스폰스 API(Responses API)'를 통",
     "summary": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간) 공…"
   },
@@ -438,7 +566,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T18:51:55.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 밝혔다. 초기 프로그램에는 엔비디아와 스노우플레이크, 데이터브릭스, 베인앤컴퍼니, 부즈앨런해밀턴 등 130개 이상의 기업이 참여했다.협력사는 고객사의 그록 도입을 지원하는 ‘트랜스",
     "summary": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고…"
   },
@@ -450,7 +578,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T18:44:11.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "케빈 웨일 전 오픈AI 과학 부문 책임자가 AI와 로봇을 활용해 신약 개발의 실험 과정을 자동화하는 스타트업 워프 사이언스(Warp Sciences)를 설립했다.22일(현지시간) 블룸버그에 따르면, 워프 사이언스는 2억1500만달러(약 2800억원)의 시리즈 A 투자금을 확보하며 공식 출범했다.투자 유치 이후 기업가치는 8억6500만달러(약 1조1400억원)로 평가됐다. 라이트스피드 벤처 파트너스가 투자를 주도했으며 IVP, 메이필드, 럭스 캐피털, 프렘지 인베스트, 멘로 벤처스 등이 참여했다.엔젤 투자자 명단에는 사라 프라이어 오",
     "summary": "케빈 웨일 전 오픈AI 과학 부문 책임자가 AI와 로봇을 활용해 신약 개발의 실험 과정을 자동화하는 스타트업 워프 사이언스(Warp Sciences)를 설립했다.22일(현지시간) 블룸버그에 따르면, 워프 사이언스는 2억1500만달러(약 2800억원)의 시리즈 A 투자금을 확보하며 공식 출범했다.투자 유치 이후 기업가치는 8억6500만달러(약 1조1400억원…"
   },
@@ -462,7 +590,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T18:26:15.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "중국 유니트리 로보틱스가 칼을 든 침입자에 맞서고 차량 앞부분을 들어 올리는 휴머노이드 로봇 ‘H2-X’의 홍보 영상을 공개했다. 무술과 곡예 동작을 선보이던 로봇에 경호·구조라는 활용 시나리오를 더했다. 다만 실제 위험 상황에서 스스로 위협을 판단하고 안전하게 대응할 수 있는지는 공개하지 않았다.유니트리는 21일(현지시간) 공식 영상을 통해 ‘H2-X 쿵푸 레전드 가디언(Kung Fu Legend Guardian)’을 소개했다. 영상에는 폐차장에서 자동차 문을 주먹과 발로 가격하고, 4m 높이로 표시된 발판에서 뛰어내려 두 발로",
     "summary": "중국 유니트리 로보틱스가 칼을 든 침입자에 맞서고 차량 앞부분을 들어 올리는 휴머노이드 로봇 ‘H2-X’의 홍보 영상을 공개했다. 무술과 곡예 동작을 선보이던 로봇에 경호·구조라는 활용 시나리오를 더했다. 다만 실제 위험 상황에서 스스로 위협을 판단하고 안전하게 대응할 수 있는지는 공개하지 않았다.유니트리는 21일(현지시간) 공식 영상을 통해 ‘H2-X 쿵…"
   },
@@ -474,7 +602,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T18:10:28.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "앤트로픽이 ‘클로드’의 작업 승인 절차를 줄여 AI가 중간에 멈추지 않고 작업을 이어가도록 한다. 사용자에게 매번 실행 여부를 묻는 대신 자동 검사로 위험을 판단하는 ‘오토 모드(Auto Mode)’를 대부분의 클로드 앱에 기본 적용한다. 반복되는 승인 요청이 형식적인 클릭으로 굳어지는 문제를 줄이고, AI가 장시간 작업을 수행하도록 하려는 조치다.앤트로픽은 22일(현지시간) 공식 발표문을 업데이트하고 다음 주부터 프로·맥스·팀 요금제 이용자가 대부분의 클로드 앱에서 새로 시작하는 세션에 자동 모드를 기본 적용한다고 밝혔다.지난 8",
     "summary": "앤트로픽이 ‘클로드’의 작업 승인 절차를 줄여 AI가 중간에 멈추지 않고 작업을 이어가도록 한다. 사용자에게 매번 실행 여부를 묻는 대신 자동 검사로 위험을 판단하는 ‘오토 모드(Auto Mode)’를 대부분의 클로드 앱에 기본 적용한다. 반복되는 승인 요청이 형식적인 클릭으로 굳어지는 문제를 줄이고, AI가 장시간 작업을 수행하도록 하려는 조치다.앤트로픽…"
   },
@@ -486,7 +614,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:51:35.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "디자인 플랫폼 캔바(Canva)가 자체 개발한 이미지 생성 모델을 선보였다. 사진을 그럴듯하게 만드는 데 그치지 않고 디자인 구성과 글자 배치까지 이해하도록 설계해, 생성한 이미지를 곧바로 편집 가능한 디자인으로 활용할 수 있도록 하는 것이 특징이다.캔바는 22일(현지시간) 이미지 생성 모델 ‘캔바 크래프트(Canva Craft)’를 공개했다. 모델은 최대 2K 해상도의 이미지를 생성하며, 소셜미디어 게시물부터 포스터와 배너까지 다양한 용도에 맞춰 30가지 이상의 화면 비율을 지원한다.특히 디자인 분야의 AI 모델 평가 플랫폼 디자",
     "summary": "디자인 플랫폼 캔바(Canva)가 자체 개발한 이미지 생성 모델을 선보였다. 사진을 그럴듯하게 만드는 데 그치지 않고 디자인 구성과 글자 배치까지 이해하도록 설계해, 생성한 이미지를 곧바로 편집 가능한 디자인으로 활용할 수 있도록 하는 것이 특징이다.캔바는 22일(현지시간) 이미지 생성 모델 ‘캔바 크래프트(Canva Craft)’를 공개했다. 모델은 최대…"
   },
@@ -498,7 +626,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:36:44.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "아마존웹서비스(AWS)가 기업이 GPU 인프라를 직접 관리하지 않고도 AI 모델의 학습 과정을 세밀하게 제어할 수 있는 기능을 선보였다. AI가 어떤 방식으로 답변을 생성하고 결과를 평가해 학습할지 개발자가 직접 설계하면, GPU 자원 할당과 학습 실행은 AWS가 맡는 방식이다. 기업별 업무에 특화된 AI 에이전트 개발을 간소화하려는 목적이다.AWS는 22일(현지시간) 머신러닝 개발 플랫폼 ‘아마존 세이지메이커 AI(Amazon SageMaker AI)’의 신규 기능인 ‘트레이닝 세션(Training Sessions)’을 정식 출시",
     "summary": "아마존웹서비스(AWS)가 기업이 GPU 인프라를 직접 관리하지 않고도 AI 모델의 학습 과정을 세밀하게 제어할 수 있는 기능을 선보였다. AI가 어떤 방식으로 답변을 생성하고 결과를 평가해 학습할지 개발자가 직접 설계하면, GPU 자원 할당과 학습 실행은 AWS가 맡는 방식이다. 기업별 업무에 특화된 AI 에이전트 개발을 간소화하려는 목적이다.AWS는 22…"
   },
@@ -510,7 +638,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:30:14.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "피지컬 AI 시장에서 기술 경쟁력을 가늠하는 핵심 요소로 산업 현장 적용 역량이 주목받고 있다. 제조·조선·국방 등 복잡한 작업 환경에서는 AI가 주변 상황을 인식하고 환경 변화에 대응해 로봇과 설비를 자율적으로 제어하는 기술이 중요하다. 이를 위해서는 현실 공간을 가상으로 구현하고, 물리적 환경의 변화를 예측하며, AI의 판단을 실제 행동으로 연결하는 통합 기술 역량이 요구된다.이러한 가운데 산업 특화 AI 전문 기업 NC AI가 가상환경 구축부터 로봇의 자율적인 판단과 행동까지 아우르는 ‘풀스택 피지컬 AI’ 기술을 앞세워 산업",
     "summary": "피지컬 AI 시장에서 기술 경쟁력을 가늠하는 핵심 요소로 산업 현장 적용 역량이 주목받고 있다. 제조·조선·국방 등 복잡한 작업 환경에서는 AI가 주변 상황을 인식하고 환경 변화에 대응해 로봇과 설비를 자율적으로 제어하는 기술이 중요하다. 이를 위해서는 현실 공간을 가상으로 구현하고, 물리적 환경의 변화를 예측하며, AI의 판단을 실제 행동으로 연결하는 통…"
   },
@@ -522,7 +650,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:24:40.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "우버가 전 세계 직원 3만명 이상에게 오픈AI의 기업용 AI 에이전트 ‘챗GPT 워크’를 제공한다. 직원 1000명을 대상으로 진행한 시범 운영을 전사로 확대해 복잡한 다단계 업무를 자동화하고, 조사부터 데이터 분석과 문서 작성까지 다양한 작업을 지원한다. 지식 노동을 위한 에이전트형 AI 플랫폼을 전사에 도입하는 것은 우버가 처음이다.오픈AI와 우버는 22일(현지시간) 파트너십을 확대하고, 재무·운영·마케팅·제품 등 전 부서에서 챗GPT 워크를 활용할 수 있도록 한다고 밝혔다. 지난 7월 출시된 챗GPT 워크는 구글 드라이브와 지",
     "summary": "우버가 전 세계 직원 3만명 이상에게 오픈AI의 기업용 AI 에이전트 ‘챗GPT 워크’를 제공한다. 직원 1000명을 대상으로 진행한 시범 운영을 전사로 확대해 복잡한 다단계 업무를 자동화하고, 조사부터 데이터 분석과 문서 작성까지 다양한 작업을 지원한다. 지식 노동을 위한 에이전트형 AI 플랫폼을 전사에 도입하는 것은 우버가 처음이다.오픈AI와 우버는 2…"
   },
@@ -534,7 +662,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:18:10.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "전남 고흥과 제주가 경쟁하는 제2우주센터 건립지가 연내 국가우주위원회에서 최종 결정될 예정이다. 정부는 2024년 발사시설 확충을 위한 사전 연구를 시작한 뒤 국가계획 반영과 전국 공모, 후보지 평가를 진행하며 새 발사 거점 조성을 준비해 왔다.우주항공청의 ‘제2우주센터 구축 계획안’에 따르면, 발사시설 확충을 위한 탐색연구는 2024년 10월부터 2025년 12월까지 진행됐다. 발사 수요를 조사하고 후보지의 입지조건을 분석하는 한편, 전문가 간담회를 통해 시설 확충에 필요한 여건을 살폈다.배경에는 위성 발사 수요 증가와 재사용발사",
     "summary": "전남 고흥과 제주가 경쟁하는 제2우주센터 건립지가 연내 국가우주위원회에서 최종 결정될 예정이다. 정부는 2024년 발사시설 확충을 위한 사전 연구를 시작한 뒤 국가계획 반영과 전국 공모, 후보지 평가를 진행하며 새 발사 거점 조성을 준비해 왔다.우주항공청의 ‘제2우주센터 구축 계획안’에 따르면, 발사시설 확충을 위한 탐색연구는 2024년 10월부터 2025…"
   },
@@ -546,7 +674,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:16:12.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "SK하이닉스는 미국 낸드플래시 자회사 솔리다임의 프리IPO 및 기업공개(IPO) 검토를 중단한다고 23일 밝혔다.회사 측은 성장 가능성이나 투자 필요성이 달라진 것은 아니며, 최근 자본시장 여건과 주가 흐름을 고려할 때 IPO가 SK하이닉스와 기존 주주에게 가장 유리한 선택인지 재검토할 필요가 있다고 설명했다.솔리다임은 AI 메모리 수요 증가에 대응해 미국 내 신규 생산시설 확보를 추진해 왔다. SK하이닉스는 투자재원 마련을 위해 직접투자와 IPO 등을 비교 검토해 왔으며, 앞서 일부 외신에서는 솔리다임이 골드만삭스·모건스탠리를 주",
     "summary": "SK하이닉스는 미국 낸드플래시 자회사 솔리다임의 프리IPO 및 기업공개(IPO) 검토를 중단한다고 23일 밝혔다.회사 측은 성장 가능성이나 투자 필요성이 달라진 것은 아니며, 최근 자본시장 여건과 주가 흐름을 고려할 때 IPO가 SK하이닉스와 기존 주주에게 가장 유리한 선택인지 재검토할 필요가 있다고 설명했다.솔리다임은 AI 메모리 수요 증가에 대응해 미국…"
   },
@@ -558,7 +686,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:07:50.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "지난해 전남 16개 인구감소지역의 체류인구는 줄었지만, 지역에서 숙박한 인구는 늘어난 것으로 집계됐다. 월평균 숙박인구가 약 4만7100명 증가한 가운데, 한 달 동안 2~3일 숙박한 인구의 증가폭이 가장 컸다.22일 호남지방데이터청이 발표한 ‘2025년 전남 인구감소지역 생활인구 현황’에 따르면 지난해 해당 지역의 연평균 체류인구는 약 296만명으로, 전년보다 2.3% 감소했다.반면 보고서에 수록된 월별 숙박기간별 통계를 합산한 숙박인구는 2024년 월평균 약 86만9100명에서 지난해 91만6200명으로 5.4% 증가했다. 체류",
     "summary": "지난해 전남 16개 인구감소지역의 체류인구는 줄었지만, 지역에서 숙박한 인구는 늘어난 것으로 집계됐다. 월평균 숙박인구가 약 4만7100명 증가한 가운데, 한 달 동안 2~3일 숙박한 인구의 증가폭이 가장 컸다.22일 호남지방데이터청이 발표한 ‘2025년 전남 인구감소지역 생활인구 현황’에 따르면 지난해 해당 지역의 연평균 체류인구는 약 296만명으로, 전…"
   },
@@ -570,7 +698,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:05:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI 생성 영상전남광주통합특별시 소방본부가 구급대원의 현장 응급처치 역량 강화를 위한 스마트의료지도 전문교육을 진행했다.전남광주소방은 지난 7~8일과 21일 사흘간 광주소방학교 중강의실에서 구급대원 34명을 대상으로 ‘스마트의료지도 시범사업 교육’을 실시했다고 22일 밝혔다.교육은 현장 구급대원의 응급처치 능력을 높이고 병원 이송 전 단계에서 전문적인 응급의료 대응체계를 강화하기 위해 마련됐다.교육에서는 현장 구급대원 심폐소생술 개론과 병원 전 심폐소생술 팀 운영, 시뮬레이션 체크리스트, 영상통화 기반 시뮬레이션 시나리오 등을 다뤘",
     "summary": "AI 생성 영상전남광주통합특별시 소방본부가 구급대원의 현장 응급처치 역량 강화를 위한 스마트의료지도 전문교육을 진행했다.전남광주소방은 지난 7~8일과 21일 사흘간 광주소방학교 중강의실에서 구급대원 34명을 대상으로 ‘스마트의료지도 시범사업 교육’을 실시했다고 22일 밝혔다.교육은 현장 구급대원의 응급처치 능력을 높이고 병원 이송 전 단계에서 전문적인 응급…"
   },
@@ -582,7 +710,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T17:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
   },
@@ -594,7 +722,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T16:49:16.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "국내 AI 기업들이 일본 시장 공략에 속도를 내고 있다. 현지 IT 전시회와 행사를 통해 법률·의료·보안·기업용 AI 등 분야별 수요 선점을 꾀하고 있다.23일 업계에 따르면, K-AI 기업들의 열도 공략 배경에는 여전히 더딘 일본의 디지털 전환(DX)과 AI 전환(AX)이 자리 잡고 있다. 일본 경제산업성의 보고서에 따르면, 기업의 약 60% 정도가 노후 레거시 시스템을 사용 중이며 종이 문서와 팩스, 도장 중심의 업무 관행도 여전하다. 지난 7월 정보처리추진기구(IPA)가 발표한 ‘DX 동향 2026’ 조사에서 기업의 80% 이",
     "summary": "국내 AI 기업들이 일본 시장 공략에 속도를 내고 있다. 현지 IT 전시회와 행사를 통해 법률·의료·보안·기업용 AI 등 분야별 수요 선점을 꾀하고 있다.23일 업계에 따르면, K-AI 기업들의 열도 공략 배경에는 여전히 더딘 일본의 디지털 전환(DX)과 AI 전환(AX)이 자리 잡고 있다. 일본 경제산업성의 보고서에 따르면, 기업의 약 60% 정도가 노후…"
   },
@@ -606,7 +734,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T16:44:09.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "마이크로소프트(MS)의 AI 진단 시스템이 복잡한 질병 사례를 대상으로 한 시뮬레이션에서 일반 의사보다 두 배 이상 높은 진단 정확도를 기록했다. 증상과 검사 결과를 한꺼번에 제공하고 병명을 맞히게 하는 기존 평가에서 나아가, AI가 필요한 질문과 검사를 직접 선택하고 결과에 따라 진단을 수정하도록 했다. 진단의 정확성과 함께 검사 비용까지 평가해 실제 진료를 지원할 가능성을 시험한 것이다.MS는 22일(현지시간) 국제 학술지 사이언스에 ‘언어 모델을 이용한 순차적 진단’ 연구 논문을 발표했다.연구진은 뉴잉글랜드 의학저널(NEJM)",
     "summary": "마이크로소프트(MS)의 AI 진단 시스템이 복잡한 질병 사례를 대상으로 한 시뮬레이션에서 일반 의사보다 두 배 이상 높은 진단 정확도를 기록했다. 증상과 검사 결과를 한꺼번에 제공하고 병명을 맞히게 하는 기존 평가에서 나아가, AI가 필요한 질문과 검사를 직접 선택하고 결과에 따라 진단을 수정하도록 했다. 진단의 정확성과 함께 검사 비용까지 평가해 실제 진…"
   },
@@ -618,7 +746,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T16:24:24.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -629,7 +757,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T16:05:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI 생성 영상순천 서면에서 어린이 동반 가족을 대상으로 한 1박2일 생태체험 캠프가 열렸다.순천 서면은 주민자치회가 지난 17일부터 이틀간 다봄센터 일원에서 ‘2026 서면 어린이 생태체험 가족캠프’를 운영했다고 밝혔다.이번 캠프는 주민참여예산 역량강화사업의 하나로 마련됐으며, 만 6세부터 13세까지 자녀를 둔 가족 20팀이 참여했다.첫날에는 ‘우리가족 문패 만들기’를 시작으로 참가 가족 소개와 교류 프로그램이 진행됐다. 야외 간이 수조에서는 어린이들이 참여하는 은어잡기 체험을 운영했고, 솜사탕과 떡볶이 만들기, 제기차기와 윷놀이",
     "summary": "AI 생성 영상순천 서면에서 어린이 동반 가족을 대상으로 한 1박2일 생태체험 캠프가 열렸다.순천 서면은 주민자치회가 지난 17일부터 이틀간 다봄센터 일원에서 ‘2026 서면 어린이 생태체험 가족캠프’를 운영했다고 밝혔다.이번 캠프는 주민참여예산 역량강화사업의 하나로 마련됐으며, 만 6세부터 13세까지 자녀를 둔 가족 20팀이 참여했다.첫날에는 ‘우리가족…"
   },
@@ -641,7 +769,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T16:00:11.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -652,7 +780,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T15:54:40.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "온디바이스 AI 및 로보틱스 플랫폼 전문 인티그리트가 환경 인식·행동 판단·상황 적응형 제어 관련 국내 특허 4건을 등록하고 차세대 휴머노이드용 예측형 피지컬 AI 플랫폼 개발을 확대한다고 23일 밝혔다.등록된 특허는 ▲VLM 기반 다중 조건 행동 우선순위 결정 시스템 ▲어댑티브 VLA 컨시어지 홈 게이트웨이 ▲VLA 기반 멀티미디어 데이터 생성 홈 로봇 ▲비전 인식 기반 자율 주행 및 통신 이동 로봇 등 4건이다. AI의 인식 결과를 실제 로봇의 판단과 행동으로 연결하는 데 초점을 맞췄다.인티그리트는 기존 비전·언어·행동(VLA)",
     "summary": "온디바이스 AI 및 로보틱스 플랫폼 전문 인티그리트가 환경 인식·행동 판단·상황 적응형 제어 관련 국내 특허 4건을 등록하고 차세대 휴머노이드용 예측형 피지컬 AI 플랫폼 개발을 확대한다고 23일 밝혔다.등록된 특허는 ▲VLM 기반 다중 조건 행동 우선순위 결정 시스템 ▲어댑티브 VLA 컨시어지 홈 게이트웨이 ▲VLA 기반 멀티미디어 데이터 생성 홈 로봇…"
   },
@@ -664,7 +792,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T15:45:15.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "영국 대형 은행 바클레이즈가 AI 도입과 조직 개편을 추진하며 올해 직원 5000명을 줄인다. 전체 인력의 약 5%에 해당하는 규모로, 개발자 등 지원 부서에 감원이 집중될 예정이다.바클레이즈는 22일(현지시간) 3분기 실적을 발표하며 연내 약 5000명의 인력을 감축한다고 밝혔다. 여기에는 상반기 이미 줄인 1000명이 포함돼 있으며, 연말까지 추가로 4000명을 줄일 계획이다. 애나 크로스 최고 재무책임자(CFO)는 감원의 약 60%가 지원 부서에서 이뤄진다며 “AI가 직원들의 생산성을 높이면서 개발자도 줄어든다”고 말했다. 개",
     "summary": "영국 대형 은행 바클레이즈가 AI 도입과 조직 개편을 추진하며 올해 직원 5000명을 줄인다. 전체 인력의 약 5%에 해당하는 규모로, 개발자 등 지원 부서에 감원이 집중될 예정이다.바클레이즈는 22일(현지시간) 3분기 실적을 발표하며 연내 약 5000명의 인력을 감축한다고 밝혔다. 여기에는 상반기 이미 줄인 1000명이 포함돼 있으며, 연말까지 추가로 4…"
   },
@@ -676,7 +804,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T15:36:00.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -687,7 +815,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T15:28:43.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -698,7 +826,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T15:25:13.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "테슬라가 AI와 로봇 사업에 대한 자본 지출 전망치를 낮추자, 투자자들의 우려가 커졌다. 분기 실적은 시장 예상치를 웃돌았지만, 미래 성장 동력으로 꼽히는 사이버캡과 휴머노이드 로봇 옵티머스에 대한 투자 축소 가능성이 제기되면서 주가는 하락했다.테슬라 주가는 22일(현지시간) 약 2% 떨어졌다. 전날 회사는 3분기 AI와 로봇공학 분야에 당초 예상보다 훨씬 적은 금액을 지출하면서 잉여현금흐름이 예상 밖의 흑자를 기록했다고 발표했다.이에 따라 2026년 자본 지출(CAPEX) 전망치도 기존 250억달러(약 33조원) 이상에서 200억",
     "summary": "테슬라가 AI와 로봇 사업에 대한 자본 지출 전망치를 낮추자, 투자자들의 우려가 커졌다. 분기 실적은 시장 예상치를 웃돌았지만, 미래 성장 동력으로 꼽히는 사이버캡과 휴머노이드 로봇 옵티머스에 대한 투자 축소 가능성이 제기되면서 주가는 하락했다.테슬라 주가는 22일(현지시간) 약 2% 떨어졌다. 전날 회사는 3분기 AI와 로봇공학 분야에 당초 예상보다 훨씬…"
   },
@@ -710,7 +838,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T15:21:09.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -721,7 +849,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T15:12:17.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "구글이 차량용 ‘제미나이’에 이메일과 일정, 사진 등을 참고해 운전자의 요청을 처리하는 개인화 기능을 도입했다. 병원 주소나 식당 이름을 일일이 말하지 않아도 개인 정보와 앞선 대화를 바탕으로 목적지를 찾아주는 방식이다. 스마트폰에서 쓰던 개인 AI 비서의 기능을 운전 중에도 이어 쓸 수 있도록 했다.구글은 20일(현지시간) 공식 블로그를 통해 ‘퍼스널 인텔리전스(Personal Intelligence)’를 안드로이드 오토에 차례로 적용한다고 밝혔다. 구글 서비스가 내장된 차량에는 앞으로 수개월에 걸쳐 도입할 예정이다.차량에서 제미",
     "summary": "구글이 차량용 ‘제미나이’에 이메일과 일정, 사진 등을 참고해 운전자의 요청을 처리하는 개인화 기능을 도입했다. 병원 주소나 식당 이름을 일일이 말하지 않아도 개인 정보와 앞선 대화를 바탕으로 목적지를 찾아주는 방식이다. 스마트폰에서 쓰던 개인 AI 비서의 기능을 운전 중에도 이어 쓸 수 있도록 했다.구글은 20일(현지시간) 공식 블로그를 통해 ‘퍼스널 인…"
   },
@@ -733,7 +861,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T14:44:02.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -744,7 +872,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T14:40:35.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "■ 드림랩스, 처음 보는 로봇도 조종하는 ‘드림-1’ 공개드림랩스가 별도 추가 학습이나 시범 데이터 없이 새로운 로봇을 제어하는 ‘드림-1(Dream-1)’을 공개했다. 두 팔과 평행 집게를 갖춘 로봇을 API에 연결하면 물건 옮기기와 서랍 닫기 등의 작업을 수행하도록 설계했다. 회사는 학습에 쓰지 않은 로봇과 작업에도 대응하는 ‘월드 액션 모델’이라고 소개했으며, 이용 요금은 시간당 3달러부터다. 다만 로봇의 구조와 제어 소프트웨어에 따라 작업 성능은 달라진다고 설명했다.Today, Dream Labs is coming out o",
     "summary": "■ 드림랩스, 처음 보는 로봇도 조종하는 ‘드림-1’ 공개드림랩스가 별도 추가 학습이나 시범 데이터 없이 새로운 로봇을 제어하는 ‘드림-1(Dream-1)’을 공개했다. 두 팔과 평행 집게를 갖춘 로봇을 API에 연결하면 물건 옮기기와 서랍 닫기 등의 작업을 수행하도록 설계했다. 회사는 학습에 쓰지 않은 로봇과 작업에도 대응하는 ‘월드 액션 모델’이라고 소…"
   },
@@ -756,7 +884,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T14:12:53.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "메타의 채무불이행 위험을 반영하는 지표가 사상 최고치를 기록하고 주가는 7% 가까이 급락했다. AI 투자 규모를 늘린 데다 잉여현금흐름까지 2012년 이후 처음 적자로 돌아서면서 대규모 투자에 필요한 자금 조달 부담이 부각됐다.22일(현지시간) 로이터와 CNBC 등에 따르면, 이날 메타 주가는 전일 대비 6.98% 하락한 648.85달러에 거래를 마쳤다. 시장 예상을 웃돈 매출 실적도 AI 투자에 따른 재무 부담을 잠재우지 못했다.마킷 데이터 기준 메타의 5년 만기 신용디폴트스왑(CDS) 프리미엄은 7.6bp 오른 114.79bp로",
     "summary": "메타의 채무불이행 위험을 반영하는 지표가 사상 최고치를 기록하고 주가는 7% 가까이 급락했다. AI 투자 규모를 늘린 데다 잉여현금흐름까지 2012년 이후 처음 적자로 돌아서면서 대규모 투자에 필요한 자금 조달 부담이 부각됐다.22일(현지시간) 로이터와 CNBC 등에 따르면, 이날 메타 주가는 전일 대비 6.98% 하락한 648.85달러에 거래를 마쳤다.…"
   },
@@ -768,7 +896,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-23T13:53:54.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집  팍스경제TV",
     "summary": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집 팍스경제TV"
   },
@@ -780,7 +908,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T13:36:52.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "에임인텔리전스(대표 유상윤)는 자체 AI 레드팀 솔루션 '스팅어'와 오픈AI의 사이버보안 프로그램 '데이브레이크'를 연계한 애플리케이션 보안 평가 서비스를 출시했다고 23일 밝혔다.AI 애플리케이션과 웹 서비스, 응용프로그래밍인터페이스(API)를 대상으로 코드 분석과 실행 환경 검증을 제공한다. 데이브레이크 블루 모델로 코드 취약점을 분석하고 스팅어의 테스트 기술과 전문가 검토를 더하는 방식이다.이를 통해 잠재적 취약점을 애플리케이션의 권한·설정·데이터 흐름과 함께 분석해 실제 위험도와 조치 우선순위를 판단한다. 검증된 취약점은 재",
     "summary": "에임인텔리전스(대표 유상윤)는 자체 AI 레드팀 솔루션 '스팅어'와 오픈AI의 사이버보안 프로그램 '데이브레이크'를 연계한 애플리케이션 보안 평가 서비스를 출시했다고 23일 밝혔다.AI 애플리케이션과 웹 서비스, 응용프로그래밍인터페이스(API)를 대상으로 코드 분석과 실행 환경 검증을 제공한다. 데이브레이크 블루 모델로 코드 취약점을 분석하고 스팅어의 테스…"
   },
@@ -792,7 +920,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T13:33:37.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "한국이 오픈AI의 AI 비서 '닷츠(dots)' 출시 한 달도 안 돼 주간 활성 이용자 수 세계 3위에 올랐다. 월 구독료 100달러의 '챗GPT 프로(Pro)' 이용자 수도 세계 5위권을 기록했다.김경훈 오픈AI 코리아 총괄 대표는 22일 서울 라움 아트센터에서 열린 개발자 행사 '오픈AI 데브데이 익스체인지: 서울'에서 닷츠 서비스와 챗GPT 프로 사용자 현황을 이 같이 소개했다.데브데이 익스체인지는 전 세계 8개 도시에서 열리는 글로벌 행사로, 서울에서는 600명 이상이 참여해 AI 에이전트의 기업 업무 적용 방안을 논의했다.",
     "summary": "한국이 오픈AI의 AI 비서 '닷츠(dots)' 출시 한 달도 안 돼 주간 활성 이용자 수 세계 3위에 올랐다. 월 구독료 100달러의 '챗GPT 프로(Pro)' 이용자 수도 세계 5위권을 기록했다.김경훈 오픈AI 코리아 총괄 대표는 22일 서울 라움 아트센터에서 열린 개발자 행사 '오픈AI 데브데이 익스체인지: 서울'에서 닷츠 서비스와 챗GPT 프로 사용…"
   },
@@ -804,7 +932,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T13:17:24.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -815,7 +943,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T13:06:18.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "AI 안전성 평가 단체인 METR과 레드우드 리서치(Redwood Research)가 오픈AI의 내부 AI 에이전트 모니터링 시스템을 점검한 결과, 감시를 우회하거나 보안 제한을 무력화할 수 있는 취약점을 다수 발견했다. 이번 평가는 외부 연구진이 기업 내부 시스템과 안전성 평가 도구에 직접 접근해 위험 요소와 사고 대응 체계, 안전 관리 관행을 조사하고 독립적인 평가 결과를 공개한 첫 사례다. 22일(현지시간) 공개된 보고서에 따르면, METR과 레드우드 리서치는 지난 7월21일부터 8월11일까지 3주간 오픈AI의 내부 에이전트",
     "summary": "AI 안전성 평가 단체인 METR과 레드우드 리서치(Redwood Research)가 오픈AI의 내부 AI 에이전트 모니터링 시스템을 점검한 결과, 감시를 우회하거나 보안 제한을 무력화할 수 있는 취약점을 다수 발견했다. 이번 평가는 외부 연구진이 기업 내부 시스템과 안전성 평가 도구에 직접 접근해 위험 요소와 사고 대응 체계, 안전 관리 관행을 조사하고…"
   },
@@ -827,7 +955,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T12:39:20.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "딥시크가 기업공개(IPO)를 앞두고 약 150억달러(약 20조원)의 신규 투자 유치에 성공했다. 당초 목표액의 거의 두 배에 달하는 자금을 확보하면서 기업가치를 끌어올리고, 내년 초 상하이 증시 상장에도 속도를 내고 있다.22일(현지시간) 월스트리트저널(WSJ)과 블룸버그 등에 따르면, 딥시크는 지난 7월부터 이달까지 진행한 두 번째 비공개 투자 라운드에서 150억달러를 조달했다.당초 목표액은 74억달러(약 10조원)였으나, 투자 수요가 늘면서 액수를 상향 조정했다. 최종 투자 규모와 세부 조건은 변경될 수 있다.이번 투자에는 중국",
     "summary": "딥시크가 기업공개(IPO)를 앞두고 약 150억달러(약 20조원)의 신규 투자 유치에 성공했다. 당초 목표액의 거의 두 배에 달하는 자금을 확보하면서 기업가치를 끌어올리고, 내년 초 상하이 증시 상장에도 속도를 내고 있다.22일(현지시간) 월스트리트저널(WSJ)과 블룸버그 등에 따르면, 딥시크는 지난 7월부터 이달까지 진행한 두 번째 비공개 투자 라운드에서…"
   },
@@ -839,7 +967,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T12:22:03.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "오픈AI가 신규 투자 유치 과정에서 목표 기업가치를 기존 1조4000억달러(약 1855조원)에서 1조2500억달러(약 1656조원)로 낮췄다. 일부 투자자의 미온적인 반응과 대규모 자금 조달에 따른 피로감, AI 인프라 투자 붐의 지속 가능성에 대한 우려가 반영된 것으로 풀이된다.22일(현지시간) CNBC와 파이낸셜타임스 등에 따르면, 오픈AI는 최대 300억달러(약 39조7000억원) 규모의 신규 투자 라운드 마무리 단계에 접어들었다.아랍에미리트(UAE) 투자자들과 미국 투자사 코아투(Coatue)가 이를 주도하고 있으며, 기업가",
     "summary": "오픈AI가 신규 투자 유치 과정에서 목표 기업가치를 기존 1조4000억달러(약 1855조원)에서 1조2500억달러(약 1656조원)로 낮췄다. 일부 투자자의 미온적인 반응과 대규모 자금 조달에 따른 피로감, AI 인프라 투자 붐의 지속 가능성에 대한 우려가 반영된 것으로 풀이된다.22일(현지시간) CNBC와 파이낸셜타임스 등에 따르면, 오픈AI는 최대 30…"
   },
@@ -851,7 +979,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T12:00:03.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -862,7 +990,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T11:45:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "인도의 태양광 누적 설치용량이 171기가와트(GW)를 넘어서면서 발전설비의 내구성과 장기 성능 관리가 주요 과제로 떠오르고 있다. 태양광 모듈의 초기 구매가격뿐 아니라 장기간 발전량 감소와 부품 교체, 유지보수 비용까지 고려하는 품질 관리의 중요성이 커지고 있다.인도 신재생에너지부(MNRE)의 지난 9월30일(현지시간) 기준 공식 통계에 따르면 전국 태양광 누적 설치용량은 171.05GW로 집계됐다. 지상 설치형 태양광이 125.65GW로 가장 많았고, 계통연계형 지붕 태양광은 33.41GW를 차지했다.인도는 올해 4월부터 9월까지",
     "summary": "인도의 태양광 누적 설치용량이 171기가와트(GW)를 넘어서면서 발전설비의 내구성과 장기 성능 관리가 주요 과제로 떠오르고 있다. 태양광 모듈의 초기 구매가격뿐 아니라 장기간 발전량 감소와 부품 교체, 유지보수 비용까지 고려하는 품질 관리의 중요성이 커지고 있다.인도 신재생에너지부(MNRE)의 지난 9월30일(현지시간) 기준 공식 통계에 따르면 전국 태양광…"
   },
@@ -874,7 +1002,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T11:30:33.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간..",
     "summary": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간.."
   },
@@ -886,7 +1014,7 @@
     "sourceId": "aitimes",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T11:25:00.000Z",
-    "collectedAt": "2026-10-24T08:26:07.823Z",
+    "collectedAt": "2026-10-24T13:40:05.730Z",
     "description": "중국 사막의 대규모 태양광발전소 내부 토양에서 측정한 총탄소 함량이 주변 자연 사막보다 125.89% 높은 것으로 나타났다. 태양광 설비의 지지 구조와 패널 설치 위치에 따라 탄소 함량에 차이가 있었으며, 토양 수분과 영양분 분포가 주요 영향 요인으로 분석됐다.중국 시안이공대와 국가전력투자그룹(SPIC) 칭하이 태양광산업혁신센터 공동연구팀은 지난 7월30일(현지시간) 국제학술지 'Environmental Technology & Innovation'에 온라인 공개한 연구 결과에서 이같이 밝혔다. 논문 제목은 '사막 태양광발전소가 토양",
     "summary": "중국 사막의 대규모 태양광발전소 내부 토양에서 측정한 총탄소 함량이 주변 자연 사막보다 125.89% 높은 것으로 나타났다. 태양광 설비의 지지 구조와 패널 설치 위치에 따라 탄소 함량에 차이가 있었으며, 토양 수분과 영양분 분포가 주요 영향 요인으로 분석됐다.중국 시안이공대와 국가전력투자그룹(SPIC) 칭하이 태양광산업혁신센터 공동연구팀은 지난 7월30일…"
   },
@@ -910,7 +1038,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T10:32:01.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -921,9 +1049,21 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T10:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+  },
+  {
+    "id": "782c0f5c4ecd0af215eb7068ce511f71ef83c6ac481e5076c3558a1dca457c20",
+    "title": "AI 기업들 상장 줄연기, 앤트로픽은 11월 IPO 추진",
+    "link": "https://platum.kr/archives/296950?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ea%25b8%25b0%25ec%2597%2585%25eb%2593%25a4-%25ec%2583%2581%25ec%259e%25a5-%25ec%25a4%2584%25ec%2597%25b0%25ea%25b8%25b0-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd%25ec%259d%2580-11%25ec%259b%2594-ipo-%25ec%25b6%2594%25ec%25a7%2584",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T09:53:04.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "기술기업과 AI 인프라 업체들이 잇달아 상장을 미루는 가운데 앤트로픽(Anthropic)은 11월 상장 일정을 그대로 유지하고 있는 것으로 전해졌다. 가을 대형 기술기업 공모가 몰릴 것으로 예상됐던 미국 IPO 시장에서 실제로 남은 대형 딜은 앤트로픽 한 건에 가깝다. 금리 상승과 AI 인프라 관련주 급락으로 다른 기업들이 발을 뺀 시점이어서, 이번 공모는 투자자들이 AI에 계속 돈을 넣을 의향이 있는지를 ... 더 읽기",
+    "summary": "기술기업과 AI 인프라 업체들이 잇달아 상장을 미루는 가운데 앤트로픽(Anthropic)은 11월 상장 일정을 그대로 유지하고 있는 것으로 전해졌다. 가을 대형 기술기업 공모가 몰릴 것으로 예상됐던 미국 IPO 시장에서 실제로 남은 대형 딜은 앤트로픽 한 건에 가깝다. 금리 상승과 AI 인프라 관련주 급락으로 다른 기업들이 발을 뺀 시점이어서, 이번 공모는…"
   },
   {
     "id": "ba3953797510e820346c3b02d2db30ff2925075ecc41998c8fa77fc9db4ba691",
@@ -933,7 +1073,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:23:11.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -944,7 +1084,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:13:15.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -955,7 +1095,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:12:07.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -966,7 +1106,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:11:03.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -977,7 +1117,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:09:59.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -988,7 +1128,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:06:37.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -999,7 +1139,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:06:00.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1010,7 +1150,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T09:02:44.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1033,7 +1173,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:59:13.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1044,7 +1184,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:58:05.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1055,7 +1195,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:54:13.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1066,7 +1206,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:53:37.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1077,7 +1217,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:47:16.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "금융당국이 은행권 포용금융 실적을 평가해 서민금융진흥원 출연금을 조정하고 우수 은행에는 과징금을 감경해주는 방안을 추진한다. 서민대출 공급과 채무조정, 금리 부담 경감은 물론이고 ..",
     "summary": "금융당국이 은행권 포용금융 실적을 평가해 서민금융진흥원 출연금을 조정하고 우수 은행에는 과징금을 감경해주는 방안을 추진한다. 서민대출 공급과 채무조정, 금리 부담 경감은 물론이고 .."
   },
@@ -1089,7 +1229,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:25.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1100,7 +1240,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:05.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "",
     "summary": ""
   },
@@ -1112,7 +1252,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:04.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 달걀 공급난이 심각했지만, 이제는 가격이 급락하고 있다.\n23..",
     "summary": "국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 달걀 공급난이 심각했지만, 이제는 가격이 급락하고 있다. 23.."
   },
@@ -1124,7 +1264,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:04.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "정부가 반도체 등 첨단산업의 핵심 기술인재 유출을 막기 위해 출입국 우대와 연구개발(R&D) 혜택, 재정 지원 등 인센티브를 대폭 강화한다.\n23일 관가에 따르면 산업통상부는 이 ..",
     "summary": "정부가 반도체 등 첨단산업의 핵심 기술인재 유출을 막기 위해 출입국 우대와 연구개발(R&D) 혜택, 재정 지원 등 인센티브를 대폭 강화한다. 23일 관가에 따르면 산업통상부는 이 .."
   },
@@ -1136,7 +1276,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:03.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "앞으로 상조회사와 같은 선불식 할부거래업자는 고객에게서 받은 선수금에 대한 운용 계획을 철저히 세워야 한다. 23일 공정거래위원회는 이 같은 내용을 담은 '선불식 할부거래에서의 소..",
     "summary": "앞으로 상조회사와 같은 선불식 할부거래업자는 고객에게서 받은 선수금에 대한 운용 계획을 철저히 세워야 한다. 23일 공정거래위원회는 이 같은 내용을 담은 '선불식 할부거래에서의 소.."
   },
@@ -1160,7 +1300,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:02.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "하나금융지주가 수수료 이익 확대에 힘입어 분기 기준 역대 최대 실적을 달성했다. 실적 개선을 바탕으로 연간 자사주 소각 규모도 역대 최대 수준으로 늘렸다. 우리금융지주 역시 지난 ..",
     "summary": "하나금융지주가 수수료 이익 확대에 힘입어 분기 기준 역대 최대 실적을 달성했다. 실적 개선을 바탕으로 연간 자사주 소각 규모도 역대 최대 수준으로 늘렸다. 우리금융지주 역시 지난 .."
   },
@@ -1172,7 +1312,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:02.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "정부가 지난 3월 도입한 석유 최고가격제가 휘발유 가격을 ℓ당 최대 239원 낮추는 효과를 냈다는 분석이 나왔다. 다만 제도 장기화에 따른 재정 부담을 고려해 출구전략을 마련해야 ..",
     "summary": "정부가 지난 3월 도입한 석유 최고가격제가 휘발유 가격을 ℓ당 최대 239원 낮추는 효과를 냈다는 분석이 나왔다. 다만 제도 장기화에 따른 재정 부담을 고려해 출구전략을 마련해야 .."
   },
@@ -1184,7 +1324,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:45:01.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "금융당국이 포용금융 종합평가체계를 도입하려는 것은 금융 취약계층에 대한 대출 실적뿐만 아니라 은행의 조직과 영업 전반에 포용금융 문화를 정착시키려는 취지에서다. \n당국은 올해 실적..",
     "summary": "금융당국이 포용금융 종합평가체계를 도입하려는 것은 금융 취약계층에 대한 대출 실적뿐만 아니라 은행의 조직과 영업 전반에 포용금융 문화를 정착시키려는 취지에서다. 당국은 올해 실적.."
   },
@@ -1196,7 +1336,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:43:46.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1207,7 +1347,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:42:14.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1218,7 +1358,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:40:35.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "인공지능(AI) 산업 경쟁이 치열해지면서 AI 데이터센터(AIDC)의 중요성이 커지고 있지만 이를 뒷받침할 전력망 안정화 대책은 뒷전이라는 지적이 나온다. 국내 전력망에서 과전압 ..",
     "summary": "인공지능(AI) 산업 경쟁이 치열해지면서 AI 데이터센터(AIDC)의 중요성이 커지고 있지만 이를 뒷받침할 전력망 안정화 대책은 뒷전이라는 지적이 나온다. 국내 전력망에서 과전압 .."
   },
@@ -1230,7 +1370,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:40:35.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "정부가 제12차 전력수급기본계획(전기본)에 반영할 인공지능 데이터센터(AIDC) 전력 수요 전망치를 대폭 낮추는 안을 검토하면서 산업계가 비상이 걸렸다. 업계에선 AIDC가 사업 ..",
     "summary": "정부가 제12차 전력수급기본계획(전기본)에 반영할 인공지능 데이터센터(AIDC) 전력 수요 전망치를 대폭 낮추는 안을 검토하면서 산업계가 비상이 걸렸다. 업계에선 AIDC가 사업 .."
   },
@@ -1242,7 +1382,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:39:35.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1253,7 +1393,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:38:52.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1264,7 +1404,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:37:49.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1275,7 +1415,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:37:32.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1286,7 +1426,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:33:23.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1297,7 +1437,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:32:06.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "금융당국, 은행 ‘줄세우기’ 서민 대출부터 빚 탕감까지 은행 규모에 따라 상세평가 청년자산형성 실적도 반영 내년 평가부터 페널티 적용금융당국이 포용금융 종합평가체계를 도입하려는 것..",
     "summary": "지배구조서 변별력 갈릴 전망 최고책임자 실질권한도 점검 청년 자산형성 지원실적 반영 은행 규모에 따라 그룹별 평가 내년 실적부터 상벌체계 적용금융당국이 포용금융 종합평가체계를 도입.."
   },
@@ -1309,7 +1449,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T08:27:11.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1320,7 +1460,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:35:04.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1331,7 +1471,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:32:11.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1342,7 +1482,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:28:14.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "내년 예산 반영·중장기 제도개선 검토 석유 최고가격제 장기화 부작용 우려박홍근 기획예산처 장관이 소방재정에 대한 국비 지원 확대 방안을 내년 예산에 반영하는 방안을 검토하겠다고 밝..",
     "summary": "내년 예산 반영·중장기 제도개선 검토 석유 최고가격제 장기화 부작용 우려박홍근 기획예산처 장관이 소방재정에 대한 국비 지원 확대 방안을 내년 예산에 반영하는 방안을 검토하겠다고 밝.."
   },
@@ -1354,7 +1494,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:23:06.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1365,7 +1505,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:18:43.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1376,7 +1516,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:13:14.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1387,7 +1527,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:10:46.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "태양광 확대에 기존 발전기 가동 감소 전압 잡아주던 기능도 함께 약해져 재생에너지 늘수록 전력망 관리 부담 안정화 설비 확충·보상체계 정비 시급국내 전력망에서 과전압이 발생한 변전..",
     "summary": "태양광 확대에 기존 발전기 가동 감소 전압 잡아주던 기능도 함께 약해져 재생에너지 늘수록 전력망 관리 부담 안정화 설비 확충·보상체계 정비 시급국내 전력망에서 과전압이 발생한 변전.."
   },
@@ -1399,7 +1539,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T07:05:09.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "美주식 투자 환율 반영 시뮬레이션 하반기 원·달러 환율 14.56% 하락 슈드 가격 11% 올라도 원화로는 손실 수출기업 달러 매도에 원화 강세 압력미국 주식으로 수익을 냈어도 원..",
     "summary": "美주식 투자 환율 반영 시뮬레이션 하반기 원·달러 환율 14.56% 하락 슈드 가격 11% 올라도 원화로는 손실 수출기업 달러 매도에 원화 강세 압력미국 주식으로 수익을 냈어도 원.."
   },
@@ -1423,7 +1563,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:55:30.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "빗썸, VVIP 마케팅 판매촉진비 적정성 논란빗썸이 일부 고액 거래 고객에게 골프·해외여행·명품 쇼핑 혜택과 분기 최대 3500만원이 충전된 선불카드를 제공하면서 관련 비용을 ‘판..",
     "summary": "빗썸, VVIP 마케팅 판매촉진비 적정성 논란빗썸이 일부 고액 거래 고객에게 골프·해외여행·명품 쇼핑 혜택과 분기 최대 3500만원이 충전된 선불카드를 제공하면서 관련 비용을 ‘판.."
   },
@@ -1435,7 +1575,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:52:40.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "보안 ‘제로데이 취약점’  위험 몰라 대응시간 제로(0) PHP 유사 위험, 시작에 불과전 세계 웹사이트에 널리 쓰이는 프로그래밍 언어에서 심각한 보안 취약점이 드러났다. 사람이 ..",
     "summary": "보안 ‘제로데이 취약점’ 위험 몰라 대응시간 제로(0) PHP 유사 위험, 시작에 불과전 세계 웹사이트에 널리 쓰이는 프로그래밍 언어에서 심각한 보안 취약점이 드러났다. 사람이 .."
   },
@@ -1447,9 +1587,57 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:50:38.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "한국은행, 국회 재정위 국정감사 향후 금리 인상 기조는 열어둬 “물가는 목표수준보다 높게 유지”신현송 한국은행 총재가 지난 7~8월 두 달 연속 금리 인상을 통해 선제적으로 대응하..",
     "summary": "한국은행, 국회 재정위 국정감사 향후 금리 인상 기조는 열어둬 “물가는 목표수준보다 높게 유지”신현송 한국은행 총재가 지난 7~8월 두 달 연속 금리 인상을 통해 선제적으로 대응하.."
+  },
+  {
+    "id": "aaeff430ea8dd03d1b92150b3a44c1580a8940f1833dcabd0395026505df2e36",
+    "title": "[스타트업 모닝커피 1422회] 사줘, AI와 물류 운영을 연결하는 해외 구매 서비스 SAZO",
+    "link": "https://platum.kr/archives/296936?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1422%25ed%259a%258c-%25ec%2582%25ac%25ec%25a4%2598-ai%25ec%2599%2580-%25eb%25ac%25bc%25eb%25a5%2598-%25ec%259a%25b4%25ec%2598%2581%25ec%259d%2584-%25ec%2597%25b0%25ea%25b2%25b0%25ed%2595%2598",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T06:47:56.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "사줘, AI와 물류 운영을 연결하는 해외 구매 서비스 SAZO 사줘 기업은 2026년 10월 23일 공개된 스타트업 모닝커피 1422회는 AI와 물류 운영을 연결하는 해외 구매 서비스 ‘사조(SAZO)’를 운영하는 사줘를 소개했다. 회사는 언어와 결제, 통관과 배송으로 나뉜 해외 구매 과정을 국내 쇼핑처럼 간단한 경험으로 묶는 방향을 제시한다. 해외 상품을 구매할 때 소비자가 마주하는 어려움은 상품을 찾는 데서 ... 더 읽기",
+    "summary": "사줘, AI와 물류 운영을 연결하는 해외 구매 서비스 SAZO 사줘 기업은 2026년 10월 23일 공개된 스타트업 모닝커피 1422회는 AI와 물류 운영을 연결하는 해외 구매 서비스 ‘사조(SAZO)’를 운영하는 사줘를 소개했다. 회사는 언어와 결제, 통관과 배송으로 나뉜 해외 구매 과정을 국내 쇼핑처럼 간단한 경험으로 묶는 방향을 제시한다. 해외 상품을…"
+  },
+  {
+    "id": "808ef2bfc04fd92e6b8834df2598c39f32e7c3d47cf6118a91cd962aee47add5",
+    "title": "재무팀 결산 점검 42시간이 6시간으로, 직원이 직접 AI 업무 도구 만드는 데이블",
+    "link": "https://platum.kr/archives/296931?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25eb%25ac%25b4%25ed%258c%2580-%25ea%25b2%25b0%25ec%2582%25b0-%25ec%25a0%2590%25ea%25b2%2580-42%25ec%258b%259c%25ea%25b0%2584%25ec%259d%25b4-6%25ec%258b%259c%25ea%25b0%2584%25ec%259c%25bc%25eb%25a1%259c-%25ec%25a7%2581%25ec%259b%2590%25ec%259d%25b4-%25ec%25a7%2581%25ec%25a0%2591-ai-%25ec%2597%2585",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T06:36:30.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "매달 42시간가량 걸리던 재무팀의 결산 점검이 6시간 안팎으로 줄었다. 개발자에게 묻고 며칠씩 기다리던 시스템 질문에는 이제 AI 에이전트가 10분 안에 답한다. 언론사 사이트에 AI로 기사와 광고를 추천하는 애드테크 기업 데이블은 사내 AI 업무 플랫폼 ‘데이블LLM’으로 일하는 방식을 바꿔 반복 업무 시간을 최대 85% 줄였다고 23일 밝혔다. 데이블LLM은 데이블이 직접 만든 사내 플랫폼이다. 여러 외부 AI ... 더 읽기",
+    "summary": "매달 42시간가량 걸리던 재무팀의 결산 점검이 6시간 안팎으로 줄었다. 개발자에게 묻고 며칠씩 기다리던 시스템 질문에는 이제 AI 에이전트가 10분 안에 답한다. 언론사 사이트에 AI로 기사와 광고를 추천하는 애드테크 기업 데이블은 사내 AI 업무 플랫폼 ‘데이블LLM’으로 일하는 방식을 바꿔 반복 업무 시간을 최대 85% 줄였다고 23일 밝혔다. 데이블L…"
+  },
+  {
+    "id": "9592341dc1c53781aac0880c41649c4faf00f6a1bfdff144006d350d20e2487a",
+    "title": "IBK창공 대전 10기 12개사, 투자사 앞에서 데모데이",
+    "link": "https://platum.kr/archives/296927?utm_source=rss&utm_medium=rss&utm_campaign=ibk%25ec%25b0%25bd%25ea%25b3%25b5-%25eb%258c%2580%25ec%25a0%2584-10%25ea%25b8%25b0-12%25ea%25b0%259c%25ec%2582%25ac-%25ed%2588%25ac%25ec%259e%2590%25ec%2582%25ac-%25ec%2595%259e%25ec%2597%2590%25ec%2584%259c-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T06:33:20.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "IBK기업은행의 창업 육성 프로그램 ‘IBK창공’ 대전센터에서 5개월간 육성을 받은 스타트업 12곳이 투자사 앞에서 사업을 발표했다. IBK기업은행은 지난 22일 대전 ICC호텔에서 ‘IBK창공 대전 10기 데모데이’를 열었다. 발표에는 노틸러스와 마인드리치, 소프트먼트, 스테리, 아폴론, 아헤스, 인터그래비티테크놀로지스, 젠틀파머스, 코일즈, 큐이미징, 포트래이, 플랑크랩이 나섰다. IBK기업은행 관계자와 외부 투자기관이 심사에 참여해 각 기업의 성장 가능성과 투자 매력을 평가했다. 발표 뒤에는 참가 ... 더 읽기",
+    "summary": "IBK기업은행의 창업 육성 프로그램 ‘IBK창공’ 대전센터에서 5개월간 육성을 받은 스타트업 12곳이 투자사 앞에서 사업을 발표했다. IBK기업은행은 지난 22일 대전 ICC호텔에서 ‘IBK창공 대전 10기 데모데이’를 열었다. 발표에는 노틸러스와 마인드리치, 소프트먼트, 스테리, 아폴론, 아헤스, 인터그래비티테크놀로지스, 젠틀파머스, 코일즈, 큐이미징,…"
+  },
+  {
+    "id": "b427f74a51b7fccdb14a4adc5a6287a5e60bbd1f1c844ce342c74392357a52cd",
+    "title": "AI가 찾은 보안 취약점, 실제 서비스에서 검증까지… 에임인텔리전스, 오픈AI 보안 모델 연계 서비스 공개",
+    "link": "https://platum.kr/archives/296923?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ec%25b0%25be%25ec%259d%2580-%25eb%25b3%25b4%25ec%2595%2588-%25ec%25b7%25a8%25ec%2595%25bd%25ec%25a0%2590-%25ec%258b%25a4%25ec%25a0%259c-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4%25ec%2597%2590%25ec%2584%259c-%25ea%25b2%2580%25ec%25a6%259d%25ea%25b9%258c%25ec%25a7%2580-%25ec%2597%2590",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T06:31:18.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "AI가 코드에서 찾아낸 보안 취약점이 실제 서비스에서도 위험한지 검증하고, 고칠 방법까지 정리해 주는 보안 평가 서비스가 나왔다. AI 보안 기업 에임인텔리전스는 자사의 AI 공격 시험 솔루션 ‘스팅어’와 오픈AI의 사이버보안 프로그램 ‘데이브레이크’를 연계한 애플리케이션 보안 평가 서비스를 공개하고, 오픈AI와의 사이버보안 협력을 넓힌다고 23일 밝혔다. 이 서비스는 AI 애플리케이션과 웹 서비스, API를 대상으로 한다. 먼저 데이브레이크의 방어용 ... 더 읽기",
+    "summary": "AI가 코드에서 찾아낸 보안 취약점이 실제 서비스에서도 위험한지 검증하고, 고칠 방법까지 정리해 주는 보안 평가 서비스가 나왔다. AI 보안 기업 에임인텔리전스는 자사의 AI 공격 시험 솔루션 ‘스팅어’와 오픈AI의 사이버보안 프로그램 ‘데이브레이크’를 연계한 애플리케이션 보안 평가 서비스를 공개하고, 오픈AI와의 사이버보안 협력을 넓힌다고 23일 밝혔다.…"
   },
   {
     "id": "a15234ea3628d61083bcaaf69dbfd5eb3860a4b1d93fa46a7f0c163ed6d08865",
@@ -1459,7 +1647,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:23:33.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1470,7 +1658,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:14:57.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1481,7 +1669,7 @@
     "sourceId": "hankyung-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:08:15.000Z",
-    "collectedAt": "2026-10-24T08:26:11.248Z",
+    "collectedAt": "2026-10-24T13:40:09.179Z",
     "summary": ""
   },
   {
@@ -1503,7 +1691,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T06:00:28.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "선박금융 넘어 항만·조선·해운으로 확대 AI·디지털 기술로 업무 효율성 높이기도 김성주 행장 “지역경제에 힘이 되겠다”부산은행이 동남권 산업의 특성을 살려 해양금융과 산업금융 경쟁..",
     "summary": "선박금융 넘어 항만·조선·해운으로 확대 AI·디지털 기술로 업무 효율성 높이기도 김성주 행장 “지역경제에 힘이 되겠다”부산은행이 동남권 산업의 특성을 살려 해양금융과 산업금융 경쟁.."
   },
@@ -1537,7 +1725,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T05:56:12.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "주거 등 3대 사회정책 추진 현장방문 청년·고령층 주거 여건 직접 점검해 캠코·LH·주택관리공단 등과 간담회도 정부 “수도권 2.8만호 공급 이행 속도”정부가 노후 공공청사와 유휴..",
     "summary": "주거 등 3대 사회정책 추진 현장방문 청년·고령층 주거 여건 직접 점검해 캠코·LH·주택관리공단 등과 간담회도 정부 “수도권 2.8만호 공급 이행 속도”정부가 노후 공공청사와 유휴.."
   },
@@ -1549,7 +1737,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T05:53:16.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "BIS 9월 국가별 실효환율 분석 원화값 상승세 금융위기 이후 최대 신현송 “과거 비교시 여전히 원화약세”원화의 실질 가치가 3개월새 11.7% 상승한 것으로 확인됐다. 이는 주요..",
     "summary": "BIS 9월 국가별 실효환율 분석 원화값 상승세 금융위기 이후 최대 신현송 “과거 비교시 여전히 원화약세”원화의 실질 가치가 3개월새 11.7% 상승한 것으로 확인됐다. 이는 주요.."
   },
@@ -1572,7 +1760,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T05:35:44.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "美 대형은행 계좌 내부 외부 AI 에이전트 적발미국 대형은행들이 고객 계좌에 접속한 외부 인공지능(AI) 에이전트를 잇따라 탐지하고 접근 차단에 나섰다. 일부 에이전트는 고객 지시..",
     "summary": "美 대형은행 계좌 내부 외부 AI 에이전트 적발미국 대형은행들이 고객 계좌에 접속한 외부 인공지능(AI) 에이전트를 잇따라 탐지하고 접근 차단에 나섰다. 일부 에이전트는 고객 지시.."
   },
@@ -1584,7 +1772,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T05:31:15.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "아파트 중심 핀셋 완화에 빌라 등 ‘역차별’ 생애 최초 200만원 세금 감면 혜택도 무용지물 ‘6개월 전입 족쇄’에 세입자·매수자 갈등 조장정부의 주택담보대출 전입의무 규제가 아파..",
     "summary": "아파트 중심 핀셋 완화에 빌라 등 ‘역차별’ 생애 최초 200만원 세금 감면 혜택도 무용지물 ‘6개월 전입 족쇄’에 세입자·매수자 갈등 조장정부의 주택담보대출 전입의무 규제가 아파.."
   },
@@ -1596,9 +1784,21 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T05:27:34.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "2016년 10월 이후 최고치 대기업 연체율은 역대 최고지난달 국내은행 대출 연체율이 재차 상승하며 10여년 만에 가장 높은 수준을 기록했다. 고금리가 장기화되면서 차주들의 부담이..",
     "summary": "2016년 10월 이후 최고치 대기업 연체율은 역대 최고지난달 국내은행 대출 연체율이 재차 상승하며 10여년 만에 가장 높은 수준을 기록했다. 고금리가 장기화되면서 차주들의 부담이.."
+  },
+  {
+    "id": "0ceebbfd45209aace3b25c79e0434a561810165959a643e8f263f8fdb82a03dc",
+    "title": "과수원 로봇이 물류로 간 이유, 전화성 대표 신간이 짚은 농식품 스타트업 92곳의 사업화",
+    "link": "https://platum.kr/archives/296915?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b3%25bc%25ec%2588%2598%25ec%259b%2590-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25eb%25ac%25bc%25eb%25a5%2598%25eb%25a1%259c-%25ea%25b0%2584-%25ec%259d%25b4%25ec%259c%25a0-%25ec%25a0%2584%25ed%2599%2594%25ec%2584%25b1-%25eb%258c%2580%25ed%2591%259c-%25ec%258b%25a0%25ea%25b0%2584%25ec%259d%25b4-%25ec%25a7%259a",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T05:10:29.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "울퉁불퉁한 과수원 땅에서 제대로 움직이지 못한 농업 로봇은 결국 물류 현장으로 방향을 틀었다. 생산량을 늘린 스마트팜은 전기료와 감가상각 부담에 수익을 내지 못하기도 했다. 이처럼 기술은 좋았지만 사업이 되기까지 고비를 넘어야 했던 농식품 스타트업들의 사례를 모은 책이 나온다. 전화성 씨엔티테크 대표의 신간 『애그리테크, 푸드테크로 다시 설계하다』가 오는 27일 출판된다. 이 책은 ‘푸드테크 사업화의 원칙’ 3권 시리즈의 ... 더 읽기",
+    "summary": "울퉁불퉁한 과수원 땅에서 제대로 움직이지 못한 농업 로봇은 결국 물류 현장으로 방향을 틀었다. 생산량을 늘린 스마트팜은 전기료와 감가상각 부담에 수익을 내지 못하기도 했다. 이처럼 기술은 좋았지만 사업이 되기까지 고비를 넘어야 했던 농식품 스타트업들의 사례를 모은 책이 나온다. 전화성 씨엔티테크 대표의 신간 『애그리테크, 푸드테크로 다시 설계하다』가 오는…"
   },
   {
     "id": "e5e84e65e25549e2d4cadc6623c9343481076550e0552f06e885b491c086967c",
@@ -1630,7 +1830,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T04:53:37.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "3분기 누적 손해율 8.7%P 뚝 손익분기점은 여전히 웃돌아 내년 보험료 인상 압박 지속주요 손해보험사들의 자동차보험 손해율이 지난해보다 개선됐지만, 여전히 손익분기점을 웃돌며 적..",
     "summary": "3분기 누적 손해율 8.7%P 뚝 손익분기점은 여전히 웃돌아 내년 보험료 인상 압박 지속주요 손해보험사들의 자동차보험 손해율이 지난해보다 개선됐지만, 여전히 손익분기점을 웃돌며 적.."
   },
@@ -1644,6 +1844,18 @@
     "publishedAt": "2026-10-23T04:52:03.000Z",
     "collectedAt": "2026-10-24T02:02:40.541Z",
     "summary": ""
+  },
+  {
+    "id": "98e6bf182ed81368ad58eff657bd3e2dc74442805e25f7a865dc817b99c76c46",
+    "title": "a16z 크립토, ‘a16z 프론티어’로 이름 바꾸고 AI·로보틱스·바이오까지 투자 넓힌다",
+    "link": "https://platum.kr/archives/296916?utm_source=rss&utm_medium=rss&utm_campaign=a16z-%25ed%2581%25ac%25eb%25a6%25bd%25ed%2586%25a0-a16z-%25ed%2594%2584%25eb%25a1%25a0%25ed%258b%25b0%25ec%2596%25b4%25eb%25a1%259c-%25ec%259d%25b4%25eb%25a6%2584-%25eb%25b0%2594%25ea%25be%25b8%25ea%25b3%25a0-ai%25c2%25b7%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1%25ec%258a%25a4%25c2%25b7",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T04:40:18.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "크립토(암호화폐·블록체인) 스타트업에 투자해 온 앤드리슨 호로위츠(a16z)의 크립토 투자 조직이 AI와 로보틱스, 바이오 등 차세대 기술 전반으로 투자 대상을 넓힌다. a16z는 ‘a16z 크립토’의 이름을 ‘a16z 프론티어’로 바꾸고, 새로운 기술로 장기적으로 시장을 만들어 낼 ‘프론티어 스타트업’ 전반에 투자한다. a16z가 새 조직에서 주목하는 것은 AI가 기존 업무를 빠르게 하는 수준을 넘어, 이전에는 불가능했던 활동과 경험을 새로 만들어 내는 ... 더 읽기",
+    "summary": "크립토(암호화폐·블록체인) 스타트업에 투자해 온 앤드리슨 호로위츠(a16z)의 크립토 투자 조직이 AI와 로보틱스, 바이오 등 차세대 기술 전반으로 투자 대상을 넓힌다. a16z는 ‘a16z 크립토’의 이름을 ‘a16z 프론티어’로 바꾸고, 새로운 기술로 장기적으로 시장을 만들어 낼 ‘프론티어 스타트업’ 전반에 투자한다. a16z가 새 조직에서 주목하는 것…"
   },
   {
     "id": "9f9ef8b24c465ccf7ac6c6f777a4cc3fa12ded17fe4b91a253b0d0096ba0dba6",
@@ -2144,7 +2356,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-23T04:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
     "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate."
   },
@@ -2160,6 +2372,30 @@
     "summary": ""
   },
   {
+    "id": "fb1c9ecdebc38b0a03dbded7719a269259f160fa1fa536a465412c187472ecb1",
+    "title": "국내 스타트업 AI 모델 ‘코실로’, 젠슨 황 GTC 베를린 기조연설에 소개",
+    "link": "https://platum.kr/archives/296909?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ad%25eb%2582%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ec%25bd%2594%25ec%258b%25a4%25eb%25a1%259c-%25ec%25a0%25a0%25ec%258a%25a8-%25ed%2599%25a9-gtc-%25eb%25b2%25a0%25eb%25a5%25bc%25eb%25a6%25b0-%25ea%25b8%25b0%25ec%25a1%25b0%25ec%2597%25b0",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T03:34:40.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "국내 AI 스타트업 넘즈에이아이가 자체 개발한 AI 모델 ‘코실로(Causilo)’가 21일(현지시간) 독일 베를린에서 열린 ‘엔비디아 GTC 베를린 2026’에서 젠슨 황 엔비디아 최고경영자(CEO)의 기조연설에 소개됐다. 코실로는 매출 기록이나 거래 내역처럼 행과 열로 정리된 기업 데이터를 바탕으로 판매량이나 고객 이탈 같은 값을 예측하는 모델이다. 황 CEO는 기조연설에서 표 형태의 정형 데이터를 다루는 파운데이션 모델을 언급하며 엔비디아의 ‘쿠모 태뷸러(Kumo-Tabular)’, ... 더 읽기",
+    "summary": "국내 AI 스타트업 넘즈에이아이가 자체 개발한 AI 모델 ‘코실로(Causilo)’가 21일(현지시간) 독일 베를린에서 열린 ‘엔비디아 GTC 베를린 2026’에서 젠슨 황 엔비디아 최고경영자(CEO)의 기조연설에 소개됐다. 코실로는 매출 기록이나 거래 내역처럼 행과 열로 정리된 기업 데이터를 바탕으로 판매량이나 고객 이탈 같은 값을 예측하는 모델이다. 황…"
+  },
+  {
+    "id": "104d33dcc797fff9014903c494c077f35690e54fb014692775a669a1eeaa3837",
+    "title": "AI 스타트업 4곳, 오라클과 싱가포르서 동남아 시장 문 두드린다",
+    "link": "https://platum.kr/archives/296906?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-4%25ea%25b3%25b3-%25ec%2598%25a4%25eb%259d%25bc%25ed%2581%25b4%25ea%25b3%25bc-%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4%25ec%2584%259c-%25eb%258f%2599%25eb%2582%25a8%25ec%2595%2584-%25ec%258b%259c%25ec%259e%25a5-%25eb%25ac%25b8",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T03:28:30.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "매장 분석과 항공기 자산 관리, 치과 보철 설계에 AI를 쓰는 국내 스타트업 4곳이 오라클과 함께 싱가포르 현지 기업과 투자자를 만난다. 경기창조경제혁신센터는 오라클과 공동 운영하는 ‘미라클’ 프로그램 선정 기업들의 싱가포르 로드쇼를 오는 26일부터 29일까지 연다고 23일 밝혔다. 참여 기업은 매장 안 카메라 영상을 기기 자체에서 분석하는 메이즈, 항공기 자산 관리에 AI를 쓰는 브이엠아이씨, IT 시스템 운영 ... 더 읽기",
+    "summary": "매장 분석과 항공기 자산 관리, 치과 보철 설계에 AI를 쓰는 국내 스타트업 4곳이 오라클과 함께 싱가포르 현지 기업과 투자자를 만난다. 경기창조경제혁신센터는 오라클과 공동 운영하는 ‘미라클’ 프로그램 선정 기업들의 싱가포르 로드쇼를 오는 26일부터 29일까지 연다고 23일 밝혔다. 참여 기업은 매장 안 카메라 영상을 기기 자체에서 분석하는 메이즈, 항공기…"
+  },
+  {
     "id": "416fdfc8af8736dfc355dc53d7e54f50c49136ad4488ac9bcb677470b374993c",
     "title": "\"흰 우유 누가 마셔요\"…위기의 우유업계 '승부수' 던졌다 [권용훈의 트렌드워치]",
     "link": "https://www.hankyung.com/article/202610191812i",
@@ -2169,6 +2405,18 @@
     "publishedAt": "2026-10-23T03:00:01.000Z",
     "collectedAt": "2026-10-24T02:02:40.541Z",
     "summary": ""
+  },
+  {
+    "id": "48cbcc38af8dc65d0d937913e8b56acde240c6804107d4398048c1018a8fcb1f",
+    "title": "채용 담당자 없는 소기업에 AI 헤드헌팅, 스타팅파트너스·더존비즈온 협업 검증 착수",
+    "link": "https://platum.kr/archives/296905?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2584%25ec%259a%25a9-%25eb%258b%25b4%25eb%258b%25b9%25ec%259e%2590-%25ec%2597%2586%25eb%258a%2594-%25ec%2586%258c%25ea%25b8%25b0%25ec%2597%2585%25ec%2597%2590-ai-%25ed%2597%25a4%25eb%2593%259c%25ed%2597%258c%25ed%258c%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258c%2585%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588",
+    "source": "플래텀",
+    "sourceId": "platum",
+    "category": "창업",
+    "publishedAt": "2026-10-23T02:57:27.000Z",
+    "collectedAt": "2026-10-24T13:40:09.538Z",
+    "description": "채용 담당자가 따로 없는 소상공인과 작은 회사가 경영 관리 플랫폼 안에서 바로 헤드헌팅 서비스를 쓸 수 있게 하려는 시도가 시작됐다. AI 헤드헌팅 서비스 ‘스타팅’을 운영하는 스타팅파트너스는 더존비즈온과 함께 소기업 채용 시장을 겨냥한 협업 과제를 추진하고 있다고 밝혔다. 지난 22일 일산 킨텍스에서 열린 ‘2026 중견기업-스타트업 넥스트 동행라운지’에서 이 과제를 발표했다. 스타팅은 AI가 후보자를 걸러 내고 직무 ... 더 읽기",
+    "summary": "채용 담당자가 따로 없는 소상공인과 작은 회사가 경영 관리 플랫폼 안에서 바로 헤드헌팅 서비스를 쓸 수 있게 하려는 시도가 시작됐다. AI 헤드헌팅 서비스 ‘스타팅’을 운영하는 스타팅파트너스는 더존비즈온과 함께 소기업 채용 시장을 겨냥한 협업 과제를 추진하고 있다고 밝혔다. 지난 22일 일산 킨텍스에서 열린 ‘2026 중견기업-스타트업 넥스트 동행라운지’에…"
   },
   {
     "id": "42fd8f71c327a5d527b25d5b23f97cd484f6feae1745a16b59ccd2d9ab202728",
@@ -2222,7 +2470,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T02:16:48.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "이형일 부총리 국제무대 데뷔전 韓 경제 ‘긍정적 고립’ 이례적 평가 AI 충격시 수출·세수 경고 귀기울여야‘긍정적인 아이솔레이팅(isolating)’. 최근 태국 방콕에서 열린 국..",
     "summary": "이형일 부총리 국제무대 데뷔전 韓 경제 ‘긍정적 고립’ 이례적 평가 AI 충격시 수출·세수 경고 귀기울여야‘긍정적인 아이솔레이팅(isolating)’. 최근 태국 방콕에서 열린 국.."
   },
@@ -2234,7 +2482,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T02:14:32.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "매일경제신문사는 장래 우리 경제를 이끌어갈 초등학생을 대상으로 쉽고 재미있게 경제지식을 쌓을 수 있는 어린이 경제교실을 엽니다. 관심 있는 어린이와 학부모 여러분의 많은 참여 바랍..",
     "summary": "매일경제신문사는 장래 우리 경제를 이끌어갈 초등학생을 대상으로 쉽고 재미있게 경제지식을 쌓을 수 있는 어린이 경제교실을 엽니다. 관심 있는 어린이와 학부모 여러분의 많은 참여 바랍.."
   },
@@ -2246,7 +2494,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T02:12:24.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "법인 설립해 연내 매입 착수 목표 올해 연체율 다시 두 자릿수로신협중앙회가 부실채권 정리를 전담할 신협자산관리회사 설립에 나선다. 23일 신협중앙회는 지난 21일 금융위원회로부터 ..",
     "summary": "법인 설립해 연내 매입 착수 목표 올해 연체율 다시 두 자릿수로신협중앙회가 부실채권 정리를 전담할 신협자산관리회사 설립에 나선다. 23일 신협중앙회는 지난 21일 금융위원회로부터 .."
   },
@@ -2258,7 +2506,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T02:02:59.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "구독·올리브영·교통 등 8대 생활영역 할인 혜택IBK기업은행이 비대면 전용 상품인 ‘I-포켓몬 신용카드’를 출시했다고 22일 밝혔다. 이번에 출시된 I-포켓몬 신용카드는 대표 인기..",
     "summary": "구독·올리브영·교통 등 8대 생활영역 할인 혜택IBK기업은행이 비대면 전용 상품인 ‘I-포켓몬 신용카드’를 출시했다고 22일 밝혔다. 이번에 출시된 I-포켓몬 신용카드는 대표 인기.."
   },
@@ -2358,7 +2606,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T00:52:54.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "올해 1월 이어 9개월 만에 희망퇴직 지난해에도 100명 이상 회사 떠나 장기근속자 중심 인건비 절감 추진 카드업계 잇단 감원…비용 효율화 속도신한카드가 9개월 만에 다시 실시한 ..",
     "summary": "올해 1월 이어 9개월 만에 희망퇴직 지난해에도 100명 이상 회사 떠나 장기근속자 중심 인건비 절감 추진 카드업계 잇단 감원…비용 효율화 속도신한카드가 9개월 만에 다시 실시한 .."
   },
@@ -2414,7 +2662,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T00:35:34.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "3년새 급증해 6만1439채 소유 다주택 외국인 현황 요구했지만 국토부 “관련정보 공표 안한다” 국힘 김미애 “거래실태 파악을”중국인이 소유한 국내 주택이 최근 해마다 5000~6..",
     "summary": "3년새 급증해 6만1439채 소유 다주택 외국인 현황 요구했지만 국토부 “관련정보 공표 안한다” 국힘 김미애 “거래실태 파악을”중국인이 소유한 국내 주택이 최근 해마다 5000~6.."
   },
@@ -2426,7 +2674,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-23T00:29:08.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "신생기업 5년 생존율 36.5%  10곳 중 6곳 이상 5년 못 버텨 작년 신생 90만8000개, 5년째 감소 숙박·음식업종 신1년 새 11% 줄어사업을 시작한 기업 가운데 5년 ..",
     "summary": "신생기업 5년 생존율 36.5% 10곳 중 6곳 이상 5년 못 버텨 작년 신생 90만8000개, 5년째 감소 숙박·음식업종 신1년 새 11% 줄어사업을 시작한 기업 가운데 5년 .."
   },
@@ -2449,7 +2697,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-23T00:15:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "아산시, 녹색건축물 지원사업 마무리…내년도 참여자 12월 모집  뉴스파고",
     "summary": "아산시, 녹색건축물 지원사업 마무리…내년도 참여자 12월 모집 뉴스파고"
   },
@@ -2461,7 +2709,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-23T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
   },
@@ -2473,7 +2721,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T23:54:29.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "아산시, 노후주택 17가구 '녹색건축물 조성' 지원  연합뉴스",
     "summary": "아산시, 노후주택 17가구 '녹색건축물 조성' 지원 연합뉴스"
   },
@@ -2507,7 +2755,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T23:47:37.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "[포용금융 종합평가체계 윤곽] 올해 실적부터 은행별 등급평가 마련 지배구조·공급실적 등 5개항목 평가 출연금 인센티브·페널티 내년부터금융당국이 금융사의 포용금융 실적을 평가해 은행..",
     "summary": "[포용금융 종합평가체계 윤곽] 올해 실적부터 은행별 등급평가 마련 지배구조·공급실적 등 5개항목 평가 출연금 인센티브·페널티 내년부터금융당국이 금융사의 포용금융 실적을 평가해 은행.."
   },
@@ -2651,7 +2899,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T22:42:34.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Each month, Nielsen breaks down U.S. watch time on TV screens across all major media distributors. That particular measurement is known as The Gauge, and in recent years, it has shown favorable results for YouTube. Google's video platform typically leads rivals like Netflix, Prime Video, and Disney+ by claiming the biggest watch time share of any single distributor.\nEven with that context in mind, in the August 2026 edition of The Gauge, YouTube had an especially strong showing. It claimed its biggest watch time share ever -- 15.8% -- as streaming platforms accounted for nearly half of the TV screen traffic recorded by Nielsen.\nNetflix ranked second in the latest Gauge report with a 7.7% share of U.S. watch time on TV screens.\nVisit Tubefilter  for more great stories.",
     "summary": "Each month, Nielsen breaks down U.S. watch time on TV screens across all major media distributors. That particular measurement is known as The Gauge, and in recent years, it has shown favorable result…"
   },
@@ -2685,7 +2933,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T22:08:40.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Heated Rivalry‘s horny hockey players are headed to the silver screen. The m/m romance series–based on Rachel Reid‘s hit books and written/directed by Jacob Tierney for Canadian streaming service Crave–will reprise its first season with a limited run in more than 650 Regal theaters in the U.S., U.K., Australia, and New Zealand. “When a series […]\nVisit Tubefilter  for more great stories.",
     "summary": "Heated Rivalry‘s horny hockey players are headed to the silver screen. The m/m romance series–based on Rachel Reid‘s hit books and written/directed by Jacob Tierney for Canadian streaming service Crav…"
   },
@@ -2697,7 +2945,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T21:35:48.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Over the past year, YouTube has sent a clear message to its creator community: We hope you like generative AI, because you're about to see a lot more of it. Products from Google Gemini and similar platforms have been integrated throughout the YouTube experience, opening up new creative possibilities for channel owners.\nYouTube's AI-forward strategy has drawn significant criticism. Creators have cried foul as LLMs have scraped videos without consent, surreptitiously upscaled existing content, and flooded YouTube with a deluge of slop. If the plan to make AI ubiquitous continues at its current pace, the complaints will only grow louder.\nVisit Tubefilter  for more great stories.",
     "summary": "Over the past year, YouTube has sent a clear message to its creator community: We hope you like generative AI, because you're about to see a lot more of it. Products from Google Gemini and similar pla…"
   },
@@ -2753,7 +3001,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T20:50:57.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "연금공단, 가입자 자격 확대 추진 무소득 주부 등 가입 배제 대상도 先가입·後납입으로 연금에 편입 667만명 연금 ‘사각지대’ 메울 듯국민연금공단이 소득이 없는 전업주부와 18~2..",
     "summary": "연금공단, 가입자 자격 확대 추진 무소득 주부 등 가입 배제 대상도 先가입·後납입으로 연금에 편입 667만명 연금 ‘사각지대’ 메울 듯국민연금공단이 소득이 없는 전업주부와 18~2.."
   },
@@ -2765,7 +3013,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T20:49:23.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "정부 지역별 차등요금제 ‘삐걱’ 기업지방이전 위해 인하 추진하자 年 6500억 수입 주는 발전사 반발 석탄·LNG 8곳 법적 대응 검토민간 발전사들이 전력 생산이 많은 지방에 낮은..",
     "summary": "정부 지역별 차등요금제 ‘삐걱’ 기업지방이전 위해 인하 추진하자 年 6500억 수입 주는 발전사 반발 석탄·LNG 8곳 법적 대응 검토민간 발전사들이 전력 생산이 많은 지방에 낮은.."
   },
@@ -2777,7 +3025,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T20:48:41.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "AI가 휴면자산 찾아주면서 금융권 18조 지산서 생기는 낙전수익 5천억 증발 가능성인공지능(AI) 에이전트가 고객을 대신해 금융 상품을 비교하고 자금을 옮기는 시대가 다가오면서 국..",
     "summary": "AI가 휴면자산 찾아주면서 금융권 18조 지산서 생기는 낙전수익 5천억 증발 가능성인공지능(AI) 에이전트가 고객을 대신해 금융 상품을 비교하고 자금을 옮기는 시대가 다가오면서 국.."
   },
@@ -2789,7 +3037,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T20:46:11.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "AI기업 투자 대비 수익성 회의론 안전자산 선호에 美 국채금리 급락인공지능(AI) 기업들의 과잉투자에 대한 회의론이 재확산하면서 기술주를 중심으로 미국 증시가 하락했다. AI 투자..",
     "summary": "AI기업 투자 대비 수익성 회의론 안전자산 선호에 美 국채금리 급락인공지능(AI) 기업들의 과잉투자에 대한 회의론이 재확산하면서 기술주를 중심으로 미국 증시가 하락했다. AI 투자.."
   },
@@ -2801,7 +3049,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-22T20:45:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
     "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
   },
@@ -2813,7 +3061,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T20:41:50.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Netflix‘s stock has lost nearly half its value in the last 12 months (down from ~$124 to $68), and it sank yet further this week, bottoming out at a two-year low after the streamer posted Q3 earnings and lowered its profit projections for the fourth quarter. This comes just after Netflix announced layoffs of 6% […]\nVisit Tubefilter  for more great stories.",
     "summary": "Netflix‘s stock has lost nearly half its value in the last 12 months (down from ~$124 to $68), and it sank yet further this week, bottoming out at a two-year low after the streamer posted Q3 earnings…"
   },
@@ -2825,7 +3073,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T20:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간..",
     "summary": "향후 통화정책 좌우할 변수 점검한국은행 금융통화위원회가 22일 기준금리를 연 3.00%로 동결했다. 신현송 한은 총재는 금리 동결의 명분으로 ‘2차례의 금리 인상을 통해 정책 공간.."
   },
@@ -2837,7 +3085,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T19:42:58.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Over the past five years, Ibai Llanos has hosted annual influencer boxing spectacles across his home country of Spain. The event, dubbed La Velada del Año (\"The Night of the Year\") has broken several viewership records on Twitch.\nThe success of La Velada has made Ibai a known name across Latin America, and Netflix is looking to capitalize on the streamer's popularity. It has reached a deal to become the exclusive home of the next three editions of La Velada, which will go live in 2027, 2028, and 2029.\nVisit Tubefilter  for more great stories.",
     "summary": "Over the past five years, Ibai Llanos has hosted annual influencer boxing spectacles across his home country of Spain. The event, dubbed La Velada del Año (\"The Night of the Year\") has broken several…"
   },
@@ -2849,7 +3097,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-22T19:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Fast, focused, low-cost decisions for any application.",
     "summary": "Fast, focused, low-cost decisions for any application."
   },
@@ -3218,7 +3466,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-22T13:01:08.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -3229,7 +3477,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T13:00:36.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Think of the last major celebrity you saw in an ad. Their compensation for that ad was almost certainly handled by Extreme Reach (XR). Through its platform XR Pay, the company–which describes itself as “the OG of ad ops innovators”–is responsible for around 80% of all talent payments made across the advertising industry. Those payments […]\nVisit Tubefilter  for more great stories.",
     "summary": "Think of the last major celebrity you saw in an ad. Their compensation for that ad was almost certainly handled by Extreme Reach (XR). Through its platform XR Pay, the company–which describes itself a…"
   },
@@ -3276,7 +3524,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T12:19:57.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집  ISSUE ON (이슈온)",
     "summary": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집 ISSUE ON (이슈온)"
   },
@@ -3335,7 +3583,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-22T12:02:00.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -3369,7 +3617,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T11:38:09.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "환율 3개월간 10%이상 급락 상장사 절반 실적 눈높이 하향 車·방산 환율 부담에 수익성↓ 글로벌 수요 개선에 상쇄되기도달러당 원화값이 지난 3개월 새 10% 이상 급등하자 국내 ..",
     "summary": "환율 3개월간 10%이상 급락 상장사 절반 실적 눈높이 하향 車·방산 환율 부담에 수익성↓ 글로벌 수요 개선에 상쇄되기도달러당 원화값이 지난 3개월 새 10% 이상 급등하자 국내 .."
   },
@@ -3439,7 +3687,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-22T10:57:28.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -3472,7 +3720,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T10:26:19.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "이찬진 금융감독원장이 미국 우주탐사기업 스페이스X의 주식 배정 누락 사태와 관련해 진행해 온 미래에셋증권 현장검사를 마치고 제재 절차에 들어가겠다고 밝혔다. 이 원장은 22일 열린..",
     "summary": "이찬진 금융감독원장이 미국 우주탐사기업 스페이스X의 주식 배정 누락 사태와 관련해 진행해 온 미래에셋증권 현장검사를 마치고 제재 절차에 들어가겠다고 밝혔다. 이 원장은 22일 열린.."
   },
@@ -3495,7 +3743,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T10:05:43.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "NH농협은행이 주택담보대출과 전세자금대출, 신용대출 금리를 최대 0.3%포인트 인하한다. 금리 인상으로 이자 부담이 커진 가계대출 실수요자의 금융 비용을 줄이기 위한 조치다. 22..",
     "summary": "NH농협은행이 주택담보대출과 전세자금대출, 신용대출 금리를 최대 0.3%포인트 인하한다. 금리 인상으로 이자 부담이 커진 가계대출 실수요자의 금융 비용을 줄이기 위한 조치다. 22.."
   },
@@ -3606,7 +3854,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T09:42:19.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "주택 대출이 가르는 집주인 자산 규모내 집이 있다고 해서 자산 사정까지 비슷한 것은 아니었습니다. 같은 중산층 자가 가구라도 주택 구입을 위해 빌린 돈이 얼마나 남아 있는지에 따라..",
     "summary": "주택 대출이 가르는 집주인 자산 규모내 집이 있다고 해서 자산 사정까지 비슷한 것은 아니었습니다. 같은 중산층 자가 가구라도 주택 구입을 위해 빌린 돈이 얼마나 남아 있는지에 따라.."
   },
@@ -3629,7 +3877,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T09:31:57.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "업계 “제작에 30~36개월 필요” 발주처는 26개월 납기 요구 촉박한 납기에 불참 불가피 정작 발주는 1년 가까이 지연인천신항 크레인이 전량 중국산으로 결정된 배경을 두고 인천항..",
     "summary": "업계 “제작에 30~36개월 필요” 발주처는 26개월 납기 요구 촉박한 납기에 불참 불가피 정작 발주는 1년 가까이 지연인천신항 크레인이 전량 중국산으로 결정된 배경을 두고 인천항.."
   },
@@ -3641,7 +3889,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T09:30:25.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "2027년 162조→2028년 62조 전망 “3년 평균 적용해 산식 보완해야”정부가 내년 신설하는 미래대응기금의 재원이 2028년에는 전년보다 100조원 넘게 줄어들 수 있다는 국..",
     "summary": "2027년 162조→2028년 62조 전망 “3년 평균 적용해 산식 보완해야”정부가 내년 신설하는 미래대응기금의 재원이 2028년에는 전년보다 100조원 넘게 줄어들 수 있다는 국.."
   },
@@ -3763,7 +4011,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T09:08:43.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "시스템 업데이트 중 사고 발생 72억9000만원 추가 정정 예정토스뱅크가 내부 송금 시스템을 업데이트하는 과정에서 타행이체 입금 처리 오류가 발생해 324억9370만원 규모의 금융..",
     "summary": "시스템 업데이트 중 사고 발생 72억9000만원 추가 정정 예정토스뱅크가 내부 송금 시스템을 업데이트하는 과정에서 타행이체 입금 처리 오류가 발생해 324억9370만원 규모의 금융.."
   },
@@ -3808,7 +4056,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-22T09:03:40.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -3897,7 +4145,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T08:45:08.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "한국은행이 22일 기준금리를 연 3%로 동결했다. 중동 사태 등 대외 불확실성이 커진 상황에서 앞선 두 차례 금리 인상의 효과를 점검하겠다는 포석이다. 다만 높은 성장세와 물가 상..",
     "summary": "한국은행이 22일 기준금리를 연 3%로 동결했다. 중동 사태 등 대외 불확실성이 커진 상황에서 앞선 두 차례 금리 인상의 효과를 점검하겠다는 포석이다. 다만 높은 성장세와 물가 상.."
   },
@@ -3909,7 +4157,7 @@
     "sourceId": "mk-economy",
     "category": "경제",
     "publishedAt": "2026-10-22T08:43:47.000Z",
-    "collectedAt": "2026-10-24T08:26:10.914Z",
+    "collectedAt": "2026-10-24T13:40:08.873Z",
     "description": "국민연금공단이 소득이 없는 전업주부와 18~26세 무소득 청년 등도 국민연금에 가입할 수 있도록 문턱을 낮추는 방안을 추진한다. \n당장 보험료를 내지 않아도 가입자 자격을 유지하는..",
     "summary": "국민연금공단이 소득이 없는 전업주부와 18~26세 무소득 청년 등도 국민연금에 가입할 수 있도록 문턱을 낮추는 방안을 추진한다. 당장 보험료를 내지 않아도 가입자 자격을 유지하는.."
   },
@@ -4267,7 +4515,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T07:07:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수  동행일보",
     "summary": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수 동행일보"
   },
@@ -4325,7 +4573,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-22T06:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "What forward deployed engineering means at OpenAI",
     "summary": "What forward deployed engineering means at OpenAI"
   },
@@ -4451,7 +4699,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T04:49:18.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 청년 전월세 대출이자 지원 5가구 추가 모집  일요서울i",
     "summary": "파주시, 청년 전월세 대출이자 지원 5가구 추가 모집 일요서울i"
   },
@@ -4962,7 +5210,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T03:05:38.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 2026년 전월세 임차보증금 대출이자 지원사업 참여자 추가 모집  아시아뉴스통신",
     "summary": "파주시, 2026년 전월세 임차보증금 대출이자 지원사업 참여자 추가 모집 아시아뉴스통신"
   },
@@ -5008,7 +5256,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T02:59:23.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 2026년 전월세 대출이자 지원 대상자 추가 모집  스마트비즈",
     "summary": "파주시, 2026년 전월세 대출이자 지원 대상자 추가 모집 스마트비즈"
   },
@@ -5020,7 +5268,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T02:58:12.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "춘천시, 직장인 점심밥 지원사업 추가 모집  글로벌뉴스통신GNA",
     "summary": "춘천시, 직장인 점심밥 지원사업 추가 모집 글로벌뉴스통신GNA"
   },
@@ -5088,7 +5336,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T02:43:24.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 청년 전월세 대출이자 지원사업 참여자 추가 모집  파주에서신문",
     "summary": "파주시, 청년 전월세 대출이자 지원사업 참여자 추가 모집 파주에서신문"
   },
@@ -5167,7 +5415,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T02:28:48.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "체육공단, 원로 체육인 지원 대상자 모집…11월 20일까지 접수  연합뉴스",
     "summary": "체육공단, 원로 체육인 지원 대상자 모집…11월 20일까지 접수 연합뉴스"
   },
@@ -5302,7 +5550,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-22T01:24:49.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "Now anyone can be on Lofi Girl‘s beat. Nearly a decade ago, French producer/musician Dimitri Somoguy launched a 24/7 music streaming channel on YouTube. Called “ChilledCow,” it was a relaxed affair, intended to be background music (all made by real human artists and used with permission from those artists) for folks studying or working. And […]\nVisit Tubefilter  for more great stories.",
     "summary": "Now anyone can be on Lofi Girl‘s beat. Nearly a decade ago, French producer/musician Dimitri Somoguy launched a 24/7 music streaming channel on YouTube. Called “ChilledCow,” it was a relaxed affair, i…"
   },
@@ -5359,7 +5607,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T01:11:52.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 청년 전월세 대출이자 지원 추가 모집…연 최대 200만원  매일일보",
     "summary": "파주시, 청년 전월세 대출이자 지원 추가 모집…연 최대 200만원 매일일보"
   },
@@ -5449,7 +5697,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-22T00:51:28.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "파주시, 청년 전월세 대출이자 추가 지원…5가구 모집  서울뉴스통신",
     "summary": "파주시, 청년 전월세 대출이자 추가 지원…5가구 모집 서울뉴스통신"
   },
@@ -5595,7 +5843,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-22T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
   },
@@ -5696,7 +5944,7 @@
     "sourceId": "tubefilter",
     "category": "수익화·크리에이터",
     "publishedAt": "2026-10-21T23:17:01.000Z",
-    "collectedAt": "2026-10-24T08:26:11.832Z",
+    "collectedAt": "2026-10-24T13:40:09.747Z",
     "description": "2026 was the year that Hollywood fully embraced the wealth of creative talent that has been incubated on YouTube. In response to that trend, Gen Z and Gen Alpha are saying \"what took you so long?\"\nThe cohorts that make up today's teens and twentysomethings were the test subjects for the Teens and Screens Report, a survey published by the Center for Scholars and Storytellers at UCLA. After talking to 1,500 respondents between the ages of 10 and 24, the researchers found that YouTube is the top storytelling platform for consumers in that age range.\nVisit Tubefilter  for more great stories.",
     "summary": "2026 was the year that Hollywood fully embraced the wealth of creative talent that has been incubated on YouTube. In response to that trend, Gen Z and Gen Alpha are saying \"what took you so long?\" The…"
   },
@@ -5831,7 +6079,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T21:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
   },
@@ -5903,7 +6151,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-21T18:56:30.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -6022,7 +6270,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T17:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
     "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
   },
@@ -6130,7 +6378,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-21T15:30:59.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -6328,7 +6576,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T13:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
   },
@@ -6443,7 +6691,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T12:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
   },
@@ -6845,7 +7093,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T08:43:07.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집  기호일보",
     "summary": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집 기호일보"
   },
@@ -7331,7 +7579,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T07:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
     "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
   },
@@ -7343,7 +7591,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T07:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
   },
@@ -7378,7 +7626,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T06:35:05.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련  매일경제 마켓",
     "summary": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 매일경제 마켓"
   },
@@ -7437,7 +7685,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T06:15:03.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집  LG헬로비전",
     "summary": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 헬로tv뉴스"
   },
@@ -7529,7 +7777,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T05:29:12.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "화순, 청년창업 지원사업 참여자 모집  서울일보",
     "summary": "화순, 청년창업 지원사업 참여자 모집 서울일보"
   },
@@ -7541,7 +7789,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T05:26:55.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "“창업 정보 한 눈에” 철원군 디지털 안내창구 신설  강원일보",
     "summary": "“창업 정보 한 눈에” 철원군 디지털 안내창구 신설 강원일보"
   },
@@ -7612,7 +7860,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T04:50:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
   },
@@ -8064,7 +8312,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-21T02:28:14.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "문화관광형시장 3년 최대 20억…중기부, 2027 전통시장 지원사업 공모  ISSUE ON (이슈온)",
     "summary": "문화관광형시장 3년 최대 20억…중기부, 2027 전통시장 지원사업 공모 ISSUE ON (이슈온)"
   },
@@ -8329,7 +8577,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
   },
@@ -8341,7 +8589,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-21T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
   },
@@ -8771,7 +9019,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-20T16:12:26.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -8970,7 +9218,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-20T12:29:54.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -9180,7 +9428,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-20T10:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
     "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
   },
@@ -9638,7 +9886,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-20T08:34:30.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -10072,7 +10320,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-20T07:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
     "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
   },
@@ -10153,7 +10401,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-20T06:38:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 전통시장 활성화 지원사업 공모…시장당 최대 20억원  동행일보",
     "summary": "중기부, 전통시장 활성화 지원사업 공모…시장당 최대 20억원 동행일보"
   },
@@ -11437,7 +11685,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-20T02:40:29.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집  웰페어뉴스",
     "summary": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집 웰페어뉴스"
   },
@@ -11647,7 +11895,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-20T01:26:50.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "진천군 청년센터, 지역 청년 위한 맞춤형 지원사업 참여자 모집  충남일보",
     "summary": "진천군 청년센터, 지역 청년 위한 맞춤형 지원사업 참여자 모집 충남일보"
   },
@@ -11832,7 +12080,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-20T00:05:36.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년 전통시장 활성화 지원사업 참여 대상 모집  서남투데이",
     "summary": "중기부, 2027년 전통시장 활성화 지원사업 참여 대상 모집 서남투데이"
   },
@@ -11878,7 +12126,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-20T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
   },
@@ -11890,7 +12138,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-20T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[지원사업] 연구인력파견 8월 공고, 매칭부터 신청까지 절차 정리  willawip.com",
     "summary": "[지원사업] 연구인력파견 8월 공고, 매칭부터 신청까지 절차 정리 willawip.com"
   },
@@ -12237,7 +12485,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-19T18:20:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
     "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits."
   },
@@ -12273,7 +12521,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-19T17:54:23.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -12628,7 +12876,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T12:59:27.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "2027년도 전통시장 및 상점가 활성화 지원사업 공고  농어업경제귀농신문",
     "summary": "2027년도 전통시장 및 상점가 활성화 지원사업 공고 농어업경제귀농신문"
   },
@@ -12686,7 +12934,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-19T12:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
   },
@@ -12780,7 +13028,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-19T10:43:27.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -12791,7 +13039,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-19T10:29:18.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -12872,7 +13120,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T10:09:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고  케이에스피뉴스",
     "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 케이에스피뉴스"
   },
@@ -12884,7 +13132,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T10:09:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고  시사일보",
     "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 시사일보"
   },
@@ -13426,7 +13674,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T08:40:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "전북중기청, 전통시장 활성화 지원사업 모집  전라매일",
     "summary": "전북중기청, 전통시장 활성화 지원사업 모집 전라매일"
   },
@@ -13601,7 +13849,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T08:07:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년도 상점가 활성화 지원사업 공고  글로벌뉴스통신GNA",
     "summary": "중기부, 2027년도 상점가 활성화 지원사업 공고 글로벌뉴스통신GNA"
   },
@@ -13635,7 +13883,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T07:53:06.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년 전통시장 지원사업 모집…최대 20억원 지원  푸드투데이",
     "summary": "중기부, 2027년 전통시장 지원사업 모집…최대 20억원 지원 푸드투데이"
   },
@@ -13647,7 +13895,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T07:52:10.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고  헬로티",
     "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 헬로티"
   },
@@ -13695,7 +13943,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T07:31:56.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "전북중기청, 전통시장 활성화 지원사업 참여 모집  전북제일신문",
     "summary": "전북중기청, 전통시장 활성화 지원사업 참여 모집 전북제일신문"
   },
@@ -13719,7 +13967,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T07:20:00.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고  전북도민일보",
     "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보"
   },
@@ -13767,7 +14015,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T07:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고  인천광역시",
     "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시"
   },
@@ -13930,7 +14178,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T06:01:15.000Z",
-    "collectedAt": "2026-10-23T22:41:24.293Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고  서울Pn",
     "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 서울Pn"
   },
@@ -14627,7 +14875,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-19T03:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "중기부, '전통시장·상점가 활성화 지원사업' 참여대상 모집  아시아경제",
     "summary": "중기부, '전통시장·상점가 활성화 지원사업' 참여대상 모집 아시아경제"
   },
@@ -15381,7 +15629,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-18T20:26:26.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -16051,7 +16299,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-18T08:10:37.000Z",
-    "collectedAt": "2026-10-24T08:26:12.130Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고  인천광역시",
     "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시"
   },
@@ -16282,7 +16530,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-18T05:38:45.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -16316,7 +16564,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-18T05:09:36.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -16363,7 +16611,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-18T04:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
     "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties."
   },
@@ -16558,7 +16806,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-18T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[제도] 거점기능강화사업 공고, 법적 근거는 무엇일까요  willawip.com",
     "summary": "[제도] 거점기능강화사업 공고, 법적 근거는 무엇일까요 willawip.com"
   },
@@ -16570,7 +16818,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-18T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[지원사업] 세종 성장사다리, 공고는 왜 테크노파크 몫이 됐나  willawip.com",
     "summary": "[지원사업] 세종 성장사다리, 공고는 왜 테크노파크 몫이 됐나 willawip.com"
   },
@@ -16594,7 +16842,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-18T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[지원사업] 세종 성장사다리 공고, 실무에선 뭐부터 손봐야 할까  willawip.com",
     "summary": "[지원사업] 세종 성장사다리 공고, 실무에선 뭐부터 손봐야 할까 willawip.com"
   },
@@ -17304,7 +17552,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-16T19:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
   },
@@ -17387,7 +17635,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-16T17:59:34.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -17494,7 +17742,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-16T16:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
     "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
   },
@@ -17518,7 +17766,7 @@
     "sourceId": "fed-press",
     "category": "경제",
     "publishedAt": "2026-10-16T15:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:11.335Z",
+    "collectedAt": "2026-10-24T13:40:09.294Z",
     "description": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
     "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
   },
@@ -18429,6 +18677,18 @@
     "summary": "지난주 오픈AI가 722편의 수학 연구 원고를 공개하면서 AI의 과학 연구 능력에 관심이 집중됐습니다. 그동안 AI가 과학 연구를 수십년 앞당길 수 있다는 전망이 이어졌지만, 일반인들이 그 의미를 체감하기는 쉽지 않았습니다. 그런데 최근 AI의 수학적 문제 해결 능력이 실제로 얼마나 발전했는지 보여주는 연구 결과와 함께, 어떤 분야에 영향을 미칠지에 대한…"
   },
   {
+    "id": "8ac6511d19cdcac8211a844f4c4dd15d78cba7c122101b15e5f305d37272abc1",
+    "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
+    "source": "Google News 지원사업 검색 RSS",
+    "sourceId": "google-news-support-program",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
+    "description": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원  연합뉴스",
+    "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스"
+  },
+  {
     "id": "057d4bfd6046b2d9f391a041f11033d14b4f9f2a6a94ef40f72d044fd2818874",
     "title": "혼자 창업한 회사에 투자하려면, 계약서부터 바뀌어야",
     "link": "https://platum.kr/archives/296445?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%25bc%25ec%259e%2590-%25ec%25b0%25bd%25ec%2597%2585%25ed%2595%259c-%25ed%259a%258c%25ec%2582%25ac%25ec%2597%2590-%25ed%2588%25ac%25ec%259e%2590%25ed%2595%2598%25eb%25a0%25a4%25eb%25a9%25b4-%25ea%25b3%2584%25ec%2595%25bd%25ec%2584%259c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2594%25eb%2580%258c%25ec%2596%25b4",
@@ -18496,18 +18756,6 @@
     "collectedAt": "2026-10-18T06:39:23.182Z",
     "description": "세계 첫 실외 자율주행 주차 로봇 2024년 佛 스탠리 로보틱스 품어 19일부터 강릉 ITS 세계총회 공개 대규모 공항·야외 주차장 자동화 충돌 막는 통합 관제 대기시간 단축HL그..",
     "summary": "세계 첫 실외 자율주행 주차 로봇 2024년 佛 스탠리 로보틱스 품어 19일부터 강릉 ITS 세계총회 공개 대규모 공항·야외 주차장 자동화 충돌 막는 통합 관제 대기시간 단축HL그.."
-  },
-  {
-    "id": "8ac6511d19cdcac8211a844f4c4dd15d78cba7c122101b15e5f305d37272abc1",
-    "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
-    "source": "Google News 지원사업 검색 RSS",
-    "sourceId": "google-news-support-program",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-16T06:45:28.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
-    "description": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원  연합뉴스",
-    "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스"
   },
   {
     "id": "f5d1de0742b4ad1c0723166ddfc98e88b4c1a4525e315ae148176c284db35bb8",
@@ -18713,7 +18961,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-16T05:07:46.000Z",
-    "collectedAt": "2026-10-23T08:52:24.530Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "충북과학기술혁신원 '글로벌 스케일업 지원사업' 참여기업 모집  뉴스1",
     "summary": "충북과학기술혁신원 '글로벌 스케일업 지원사업' 참여기업 모집 뉴스1"
   },
@@ -19384,7 +19632,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-16T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
   },
@@ -19408,7 +19656,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-16T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
   },
@@ -19420,7 +19668,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-16T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[지원사업] 혁신제품 신규지정, 신청 전 꼭 확인할 기한 체크  willawip.com",
     "summary": "[지원사업] 혁신제품 신규지정, 신청 전 꼭 확인할 기한 체크 willawip.com"
   },
@@ -19432,7 +19680,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-16T00:00:00.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "[지원사업] 테크노파크 장비 고도화 공고, 실무에 미치는 영향 점검  willawip.com",
     "summary": "[지원사업] 테크노파크 장비 고도화 공고, 실무에 미치는 영향 점검 willawip.com"
   },
@@ -19692,7 +19940,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T21:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
     "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
   },
@@ -19715,7 +19963,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T20:50:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
     "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
   },
@@ -19751,7 +19999,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-15T19:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
   },
@@ -19847,7 +20095,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T16:54:17.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -19989,7 +20237,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T14:14:36.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -20023,7 +20271,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T13:45:47.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -20115,7 +20363,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T13:03:58.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -20126,7 +20374,7 @@
     "sourceId": "algorithmwatch",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T13:03:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.434Z",
+    "collectedAt": "2026-10-24T13:40:17.766Z",
     "description": "In ihrem Policy Papier zum KI-Migrationsverwaltungsgesetz (KIMVG) kritisiert Junior Policy Managerin Nora Oppermann die verpassten Chancen und die eklatanten Risiken des Gesetzentwurfs und stellt vier Empfehlungen auf.",
     "summary": "In ihrem Policy Papier zum KI-Migrationsverwaltungsgesetz (KIMVG) kritisiert Junior Policy Managerin Nora Oppermann die verpassten Chancen und die eklatanten Risiken des Gesetzentwurfs und stellt vier…"
   },
@@ -20162,7 +20410,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-15T13:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
     "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
   },
@@ -21110,18 +21358,6 @@
     "summary": ""
   },
   {
-    "id": "c797f567429f2e5a308c2144db3c3bf1e4537b8698e1779f07b0bdadd0195b68",
-    "title": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건 - CEO경제신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za1N4Q1p1V0d2OUwxeGpXQ3B4aXEwX2NYRWVvYzQxQTdfZUV5bnRWVmJWV1I4Z0FBN3QyV1pYX3d4SkNESnFYOHJGYkotV1pGeUdJSENvQzdrTTFuUTRtblJVTm81QXZIenlVOQ?oc=5",
-    "source": "Google News 지원사업 검색 RSS",
-    "sourceId": "google-news-support-program",
-    "category": "정부지원정책",
-    "publishedAt": "2026-10-15T07:22:30.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
-    "description": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건  CEO경제신문",
-    "summary": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건 CEO경제신문"
-  },
-  {
     "id": "d9ba7e13458f390d87f9f8a61fc058f0d17107b8cd366af6b2c80d06db1825e9",
     "title": "평택시, 2026년 '평택청년 취업성공 지원사업' 3기 참여자 모집 - 경기경제신문",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVHBEYWlYY2xYbUxESW1HU0tyRzdVVlhBR3hnUXM1UmI3N1FEUEU4Z1lzZm5KNnFDRkM2OFk2Qkp3MC05bjBjc012RklNcG1rOHVlSDZUcWM4TERCbTRYRw?oc=5",
@@ -21168,6 +21404,18 @@
     "collectedAt": "2026-10-17T20:04:18.876Z",
     "description": "2026년 ‘평택청년 취업성공 지원사업’ 3기 참여자 모집  뉴스21 통신",
     "summary": "2026년 ‘평택청년 취업성공 지원사업’ 3기 참여자 모집 뉴스21 통신"
+  },
+  {
+    "id": "c797f567429f2e5a308c2144db3c3bf1e4537b8698e1779f07b0bdadd0195b68",
+    "title": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건 - CEO경제신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za1N4Q1p1V0d2OUwxeGpXQ3B4aXEwX2NYRWVvYzQxQTdfZUV5bnRWVmJWV1I4Z0FBN3QyV1pYX3d4SkNESnFYOHJGYkotV1pGeUdJSENvQzdrTTFuUTRtblJVTm81QXZIenlVOQ?oc=5",
+    "source": "Google News 지원사업 검색 RSS",
+    "sourceId": "google-news-support-program",
+    "category": "정부지원정책",
+    "publishedAt": "2026-10-15T07:00:00.000Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
+    "description": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건  CEO경제신문",
+    "summary": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건 CEO경제신문"
   },
   {
     "id": "26660ab033f0544204e1bbd135769b2b6d6d9938e732ecb1f053545d70c5d154",
@@ -21363,7 +21611,7 @@
     "sourceId": "google-news-support-program",
     "category": "정부지원정책",
     "publishedAt": "2026-10-15T04:55:15.000Z",
-    "collectedAt": "2026-10-24T02:02:41.679Z",
+    "collectedAt": "2026-10-24T13:40:10.330Z",
     "description": "2026년 ‘평택청년 취업성공 지원사업’ 3기 참여자 모집  매일일보",
     "summary": "2026년 ‘평택청년 취업성공 지원사업’ 3기 참여자 모집 매일일보"
   },
@@ -21793,7 +22041,7 @@
     "sourceId": "mit-news-ai",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-15T04:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
+    "collectedAt": "2026-10-24T13:40:17.883Z",
     "description": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
     "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills."
   },
@@ -22406,7 +22654,7 @@
     "sourceId": "openai-news",
     "category": "AI이슈",
     "publishedAt": "2026-10-15T00:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
+    "collectedAt": "2026-10-24T13:40:05.930Z",
     "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
     "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
   },
@@ -22654,7 +22902,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-14T21:39:01.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -22880,7 +23128,7 @@
     "sourceId": "tech-policy-press",
     "category": "AI 거버넌스",
     "publishedAt": "2026-10-14T16:05:54.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
+    "collectedAt": "2026-10-24T13:40:15.861Z",
     "summary": ""
   },
   {
@@ -22918,251 +23166,5 @@
     "collectedAt": "2026-10-15T23:56:47.159Z",
     "description": "내년 1월 인적분할을 앞둔 카카오그룹이 주요 계열사 최고경영자(CEO)들이 한자리에 모인 가운데 첫 공동 기업설명회(IR)를 열었다고 14일 밝혔다.카카오그룹은 전날 경기도 용인시 카카오 AI캠퍼스에서 첫 그룹 공동 애널리스트 간담회를 개최했다. 이 자리에는 카카오를 비롯해 카카오페이, 카카오뱅크, 카카오엔터테인먼트, SM엔터테인먼트, 카카오픽코마 등 주요 계열사 CEO들이 총출동해 그룹 재편과 맞물린 미래 전략을 발표했다.지난 8월 인적분할을 결의한 카카오는 내년 1월 카카오톡 기반 AI·광고·커머스 사업을 맡는 신설법인 '카카오",
     "summary": "내년 1월 인적분할을 앞둔 카카오그룹이 주요 계열사 최고경영자(CEO)들이 한자리에 모인 가운데 첫 공동 기업설명회(IR)를 열었다고 14일 밝혔다.카카오그룹은 전날 경기도 용인시 카카오 AI캠퍼스에서 첫 그룹 공동 애널리스트 간담회를 개최했다. 이 자리에는 카카오를 비롯해 카카오페이, 카카오뱅크, 카카오엔터테인먼트, SM엔터테인먼트, 카카오픽코마 등 주요…"
-  },
-  {
-    "id": "5a47b671bd2809b5a8d7a0bd353fc1663be04653199bdfad5e676221c6c1a30a",
-    "title": "엔비디아, 유럽 AI 생태계 공략 본격화…프랑스 스타트업 4곳 지분 인수",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216261",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T15:20:00.000Z",
-    "collectedAt": "2026-10-15T23:56:47.159Z",
-    "description": "엔비디아가 유럽 AI 생태계 투자를 본격적으로 확대하고 있다. 프랑스 기술 스타트업인 닥토리브(Doctolib)와 제네시스 AI(Genesis AI), 엔탈픽(Entalpic), 피그먼트(Pigment)의 지분을 인수하며 유럽 시장과의 협력을 강화하기로 했다.유럽을 순방 중인 젠슨 황 엔비디아 CEO는 13일(현지시간) 에마뉘엘 마크롱 프랑스 대통령과의 회담을 포함해 유럽 기업 인수합병에 총 20억 달러(약 2조6700억원)를 투자할 계획이라고 밝혔다. 이번 투자 약속은 엔비디아가 지난 한 해 동안 유럽 대륙에 투자한 80억달러에",
-    "summary": "엔비디아가 유럽 AI 생태계 투자를 본격적으로 확대하고 있다. 프랑스 기술 스타트업인 닥토리브(Doctolib)와 제네시스 AI(Genesis AI), 엔탈픽(Entalpic), 피그먼트(Pigment)의 지분을 인수하며 유럽 시장과의 협력을 강화하기로 했다.유럽을 순방 중인 젠슨 황 엔비디아 CEO는 13일(현지시간) 에마뉘엘 마크롱 프랑스 대통령과의 회…"
-  },
-  {
-    "id": "40c8137255fe9e48d14a7d1f7a869e514b6d59a3fd8ed8ecf96875764abf223e",
-    "title": "Researchers improve weather forecasts looking two to six weeks out",
-    "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-    "source": "MIT News - Artificial Intelligence",
-    "sourceId": "mit-news-ai",
-    "category": "AI 거버넌스",
-    "publishedAt": "2026-10-14T15:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:20.565Z",
-    "description": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
-    "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning."
-  },
-  {
-    "id": "a5de53c6056e46d7f88802b99454e3e6b959995fc9ecc9644450692897001c91",
-    "title": "힌튼·벤지오 등 석학 400명, AI 사이버 위협 감독할 국제기구 설립 촉구",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216252",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:58:27.000Z",
-    "collectedAt": "2026-10-15T20:34:46.739Z",
-    "description": "제프리 힌튼과 요슈아 벤지오 등 AI 분야 석학을 포함한 전 세계 연구자 400여명이 고도의 사이버 공격 능력을 갖춘 AI 시스템을 감독할 국제기구 설립을 촉구했다. AI 모델의 위험한 행동을 통제하고 보안 사고를 체계적으로 관리하려면 기업의 자발적인 안전 약속을 넘어 국제적인 감독 체계가 필요하다는 주장이다.34개국 연구자들은 13일(현지시간) 공개서한을 통해 사이버 공격 능력을 갖춘 첨단 AI 모델의 격리 기준과 사고 보고를 감독하는 국제기구를 설립해야 한다고 밝혔다.제안된 기구는 업계 전반에 적용할 격리 기준을 마련하고, 주요",
-    "summary": "제프리 힌튼과 요슈아 벤지오 등 AI 분야 석학을 포함한 전 세계 연구자 400여명이 고도의 사이버 공격 능력을 갖춘 AI 시스템을 감독할 국제기구 설립을 촉구했다. AI 모델의 위험한 행동을 통제하고 보안 사고를 체계적으로 관리하려면 기업의 자발적인 안전 약속을 넘어 국제적인 감독 체계가 필요하다는 주장이다.34개국 연구자들은 13일(현지시간) 공개서한을…"
-  },
-  {
-    "id": "880d0ea38961aa64b7aa15702a43db8fd10d76ead61874bc30dc5c6b85356609",
-    "title": "나주, 국내 첫 바나나 양액 분화재배 실증…11월 말 수확 예정",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216248",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:53:42.000Z",
-    "collectedAt": "2026-10-15T20:34:46.739Z",
-    "description": "AI 생성 영상나주시농업기술센터가 바나나를 토양에 직접 심지 않고 대형 화분과 전용 양액을 이용해 재배하는 실증시험을 진행해 첫 수확을 앞두고 있다.나주는 기후변화 대응과 새로운 농가 소득작목 발굴을 위해 추진한 바나나 양액 분화재배 실증시험에서 현재 과실이 정상적으로 자라고 있으며 오는 11월 말 첫 수확을 예상한다고 14일 밝혔다.실증시험은 지난 3월30일 바나나 묘를 150리터 화분에 식재하면서 시작됐다. 이후 시설하우스의 온·습도 등 생육환경을 관리하고 바나나 전용 양액을 생육단계에 맞춰 공급하며 약 8개월간 생육 특성을 관",
-    "summary": "AI 생성 영상나주시농업기술센터가 바나나를 토양에 직접 심지 않고 대형 화분과 전용 양액을 이용해 재배하는 실증시험을 진행해 첫 수확을 앞두고 있다.나주는 기후변화 대응과 새로운 농가 소득작목 발굴을 위해 추진한 바나나 양액 분화재배 실증시험에서 현재 과실이 정상적으로 자라고 있으며 오는 11월 말 첫 수확을 예상한다고 14일 밝혔다.실증시험은 지난 3월3…"
-  },
-  {
-    "id": "f7d7d06a6c9ae61ec1a71960e56376efe83ac0742a0f24b3ab05e47b34a01445",
-    "title": "광주 도시철도 2호선 전동차 14일 첫 반입…2027년 본선 시운전",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216247",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:53:03.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "AI 생성 영상광주 도시철도 2호선 1단계 전동차가 14일부터 차량기지에 순차적으로 들어온다. 차량기지 시험과 시설 연계검증을 거쳐 2027년부터 본선 시운전에 들어갈 예정이다.전남광주통합특별시는 14일 도시철도 2호선 전동차의 차량기지 반입을 시작해 오는 11월까지 1단계 전동차 17편성 34량을 순차적으로 들여온다고 밝혔다.1단계 전동차는 2025년 4월 충북 오창공장에서 제작에 들어가 올해 8월 제작을 마쳤다.초도편성은 지난 9월부터 경북 경산시험선에서 주행·성능시험을 진행하고 있으며, 시험을 마친 뒤 11월까지 차량기지로 반",
-    "summary": "AI 생성 영상광주 도시철도 2호선 1단계 전동차가 14일부터 차량기지에 순차적으로 들어온다. 차량기지 시험과 시설 연계검증을 거쳐 2027년부터 본선 시운전에 들어갈 예정이다.전남광주통합특별시는 14일 도시철도 2호선 전동차의 차량기지 반입을 시작해 오는 11월까지 1단계 전동차 17편성 34량을 순차적으로 들여온다고 밝혔다.1단계 전동차는 2025년 4…"
-  },
-  {
-    "id": "ac3e973b7d235f87c461b43c89f3b6ec0b6816f4fc6def4e61f8a4b04207836a",
-    "title": "The World’s Growing Patchwork of Age Bans and What It Reveals",
-    "link": "https://techpolicy.press/the-worlds-growing-patchwork-of-age-bans-and-what-it-reveals",
-    "source": "Tech Policy Press",
-    "sourceId": "tech-policy-press",
-    "category": "AI 거버넌스",
-    "publishedAt": "2026-10-14T14:50:56.000Z",
-    "collectedAt": "2026-10-24T08:26:18.018Z",
-    "summary": ""
-  },
-  {
-    "id": "d652a47972db62a198b1ae42d9c1c35778fec6633e2eb65e5e69551497be6e03",
-    "title": "FBI, 오픈AI 사내 회의실 불법 도청 혐의로 직원 체포",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216245",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:50:53.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "미국 연방수사국(FBI)이 오픈AI 사내 임원 회의실에 몰래 녹음 장치를 설치한 혐의로 직원을 체포했다. 수사 당국은 이 장치가 오픈AI의 AI 기술과 관련한 기밀 대화를 녹음하기 위해 설치됐을 가능성이 있다고 밝혔다.미국 법무부에 따르면, 사우디아라비아 국적의 압둘라흐만 알포잔은 9일(현지시간) 체포돼 타인의 구두 대화를 가로채기 위해 전자·기계 장치 등을 사용하거나 사용하려 한 혐의로 기소됐다. 알포잔은 2025년 7월 오픈AI에 입사해 제품팀에서 근무한 것으로 알려졌다.사건은 오픈AI의 샌프란시스코 사무실에서 녹음 장치가 발견",
-    "summary": "미국 연방수사국(FBI)이 오픈AI 사내 임원 회의실에 몰래 녹음 장치를 설치한 혐의로 직원을 체포했다. 수사 당국은 이 장치가 오픈AI의 AI 기술과 관련한 기밀 대화를 녹음하기 위해 설치됐을 가능성이 있다고 밝혔다.미국 법무부에 따르면, 사우디아라비아 국적의 압둘라흐만 알포잔은 9일(현지시간) 체포돼 타인의 구두 대화를 가로채기 위해 전자·기계 장치 등…"
-  },
-  {
-    "id": "5f4cbd282b23e680e429b74b992b41f44ab2bbc7209fa379a77c23400d5b1399",
-    "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
-    "link": "https://www.hankyung.com/article/202610142609i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T14:45:56.000Z",
-    "collectedAt": "2026-10-15T06:35:39.039Z",
-    "summary": ""
-  },
-  {
-    "id": "9d2ed6824eac9c88ac5550bd259ac0b1c24016175a1aea9a90d9698d7d8ee01e",
-    "title": "KT, 최대 800Gbps 대역폭 지원 초고속·초저지연 'AI 전용회선' 선봬",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216231",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:41:01.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "AI 학습·추론에 필요한 초고속·초저지연 네트워크 서비스를 표방한 'AI 전용회선'이 출시됐다. KT(대표 박윤영)는 14일 AI 데이터센터(AIDC) 확대로 늘어나는 대용량 데이터 전송 수요에 대응하기 위해 최대 800Gbps 대역폭을 지원하는 ‘AI 전용회선’을 출시했다고 밝혔다.생성형 AI 확산과 AI 인프라 투자 확대에 따라 AI 학습·추론에 필요한 대규모 데이터를 실시간으로 처리, 전송할 수 있는 초고속 네트워크 수요를 조준한 상품이다. KT는 급증하는 AI 데이터 전송 수요에 맞춰 기존 최대 100Gbps 수준의 전용회선",
-    "summary": "AI 학습·추론에 필요한 초고속·초저지연 네트워크 서비스를 표방한 'AI 전용회선'이 출시됐다. KT(대표 박윤영)는 14일 AI 데이터센터(AIDC) 확대로 늘어나는 대용량 데이터 전송 수요에 대응하기 위해 최대 800Gbps 대역폭을 지원하는 ‘AI 전용회선’을 출시했다고 밝혔다.생성형 AI 확산과 AI 인프라 투자 확대에 따라 AI 학습·추론에 필요한…"
-  },
-  {
-    "id": "a9dfffe20974203c8e9bec47e5a6ae8ca1e0ba9c1f92d57b6b44f37995157d2d",
-    "title": "LG CNS, 일본 통신사 KDDI와 동남아 에이전틱·피지컬 AI 시장 공조",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216238",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:35:41.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "LG CNS(대표 현신균)가 일본 통신사 KDDI와 손잡고 동남아시아 AI 시장 공략에 나선다.LG CNS는 일본 통신기업 KDDI와 아태 지역 AI 전환(AX)·디지털 전환(DX) 사업 협력을 위한 업무협약을 맺었다고 14일 밝혔다.KDDI는 이동통신 등 B2C 서비스와 AI·클라우드 등 B2B IT 서비스를 제공하는 일본 통신기업으로, 아태 지역 15개국에 19개 거점을 보유하고 있다.이번 제휴로 두 회사는 LG CNS의 AI 역량과 KDDI의 통신 인프라 및 현지 네트워크를 결합, 에이전틱 AI·피지컬 AI·스마트시티 등 분야",
-    "summary": "LG CNS(대표 현신균)가 일본 통신사 KDDI와 손잡고 동남아시아 AI 시장 공략에 나선다.LG CNS는 일본 통신기업 KDDI와 아태 지역 AI 전환(AX)·디지털 전환(DX) 사업 협력을 위한 업무협약을 맺었다고 14일 밝혔다.KDDI는 이동통신 등 B2C 서비스와 AI·클라우드 등 B2B IT 서비스를 제공하는 일본 통신기업으로, 아태 지역 15개…"
-  },
-  {
-    "id": "c441efaae29af5148efffad3c79051a9157b2387c8647b011cdba92eef44ca15",
-    "title": "“AI가 배터리 신소재 골라준다”...포지큐브, 에너지 소재 추천 플랫폼 개발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216225",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:33:09.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "포지큐브(대표 오성조)는 한국생산기술연구원이 주관하는 ‘AI 기반 차세대 에너지 소재 추천 플랫폼 구축 사업'에 선정됐다고 14일 밝혔다.포지큐브는 향후 5년간 비전언어모델(VLM), 멀티에이전트 검색증강생성(RAG), 그래프신경망(GNN)을 결합한 에너지 소재 추천 플랫폼을 개발한다.사업 목표는 ▲문헌·실험·소재 데이터를 통합한 마스터 벡터 데이터베이스(DB) 구축 ▲RAG·GNN 하이브리드 모델을 통한 소재 탐색 효율화 ▲배터리 양극재, 태양광·스마트 필름 등 실제 공정 수준의 산업 실증이다.1년 차에는 대형언어모델(LLM) 기",
-    "summary": "포지큐브(대표 오성조)는 한국생산기술연구원이 주관하는 ‘AI 기반 차세대 에너지 소재 추천 플랫폼 구축 사업'에 선정됐다고 14일 밝혔다.포지큐브는 향후 5년간 비전언어모델(VLM), 멀티에이전트 검색증강생성(RAG), 그래프신경망(GNN)을 결합한 에너지 소재 추천 플랫폼을 개발한다.사업 목표는 ▲문헌·실험·소재 데이터를 통합한 마스터 벡터 데이터베이스(…"
-  },
-  {
-    "id": "a44788542ebd29425cca8e53a1f79a38f4af98be6cb02e0746e8cb6aebeefce8",
-    "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216219",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:32:26.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "정부 예산으로 구축한 AI 학습용 데이터의 공개가 의무화되고, 공공·민간에 흩어진 데이터를 한곳에서 검색할 수 있는 법적 기반이 마련된다.과학기술정보통신부(장관 배경훈)는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 AI 기본법 및 데이터산업법 개정안이 국무회의를 통과했다고 14일 밝혔다.AI 기본법 개정안은 정부 사업 등에서 구축된 AI 학습용 데이터를 'AI허브'에 연계·제공하도록 의무화했다. AI허브는 과기정통부가 2018년부터 운영 중인 AI 학습용 데이터 개방 플랫폼이다.다만 영업비밀 보호, 개인정보·저작권 침해, 국가",
-    "summary": "정부 예산으로 구축한 AI 학습용 데이터의 공개가 의무화되고, 공공·민간에 흩어진 데이터를 한곳에서 검색할 수 있는 법적 기반이 마련된다.과학기술정보통신부(장관 배경훈)는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 AI 기본법 및 데이터산업법 개정안이 국무회의를 통과했다고 14일 밝혔다.AI 기본법 개정안은 정부 사업 등에서 구축된 AI 학습용 데이터…"
-  },
-  {
-    "id": "5013e7ed0d5dcabe7702c1884df88e5c017c4928b9037f66552dd6e8edc0f7ed",
-    "title": "앤트로픽 차기 모델 ‘페이블 5.5’ 흔적 포착...\"이번 주 출시 예상\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216251",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T14:31:24.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "앤트로픽이 기존 서비스를 통해 차세대 AI 모델을 테스트 중이라는 관측이 나온 데 이어, 애저(Azure) 관련 설정에서 ‘클로드 페이블 5.5’의 흔적이 발견됐다는 소식이 전해졌다. 다만 앞서 테스트 중인 것으로 거론된 모델과 같은 모델인지, 실제 출시가 임박했는지는 확인되지 않았다.테스팅카탈로그는 13일(현지시간) X를 통해 애저 설정에서 클로드 페이블 5.5의 흔적이 포착됐다고 전했다. X 사용자 알렉스 겟먼이 애저의 ‘미국 동부 2(East US 2)’ 지역 모델 카탈로그에 페이블 5.5가 등장했으며, 상태가 ‘일반 제공(G",
-    "summary": "앤트로픽이 기존 서비스를 통해 차세대 AI 모델을 테스트 중이라는 관측이 나온 데 이어, 애저(Azure) 관련 설정에서 ‘클로드 페이블 5.5’의 흔적이 발견됐다는 소식이 전해졌다. 다만 앞서 테스트 중인 것으로 거론된 모델과 같은 모델인지, 실제 출시가 임박했는지는 확인되지 않았다.테스팅카탈로그는 13일(현지시간) X를 통해 애저 설정에서 클로드 페이블…"
-  },
-  {
-    "id": "adbb51d5ccc7afd4db15029f8eca96369d285f2db39fb46d1071fac85a983aed",
-    "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
-    "link": "https://www.hankyung.com/article/202610142600i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T14:03:55.000Z",
-    "collectedAt": "2026-10-15T06:35:39.039Z",
-    "summary": ""
-  },
-  {
-    "id": "ad7fe327a1400983c9b7ed716cd45e00084e40a5bfea9290ba862831424774b5",
-    "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
-    "link": "https://www.hankyung.com/article/2026101425871",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T13:36:36.000Z",
-    "collectedAt": "2026-10-15T01:55:41.695Z",
-    "summary": ""
-  },
-  {
-    "id": "5f85c0933282e81387b8ef5ef854ab69aa80513f34aee6691aa8abf83988ac69",
-    "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
-    "link": "https://www.hankyung.com/article/202610142568i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T13:26:48.000Z",
-    "collectedAt": "2026-10-15T01:55:41.695Z",
-    "summary": ""
-  },
-  {
-    "id": "d59281cce7939dece5ad17d4a33795e1f1c8c1a9403d8198bb1d8e4507448029",
-    "title": "계란 공급에서 드러난 K관료들의 ‘포퓰리즘 담력’ [논설실 Pick]",
-    "link": "https://www.mk.co.kr/news/economy/12176192",
-    "source": "매일경제 경제",
-    "sourceId": "mk-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T12:41:36.000Z",
-    "collectedAt": "2026-10-15T23:56:47.909Z",
-    "description": "국민 호주머니 펑펑 쓰는 정부 물가 관리 선의로 포장됐지만 가격 신호 망가뜨려“정부에 사하라 사막 관리를 맡기면, 5년 안에 모래가 부족해질 것이다.” 자유시장주의 경제학의 거목인..",
-    "summary": "국민 호주머니 펑펑 쓰는 정부 물가 관리 선의로 포장됐지만 가격 신호 망가뜨려“정부에 사하라 사막 관리를 맡기면, 5년 안에 모래가 부족해질 것이다.” 자유시장주의 경제학의 거목인.."
-  },
-  {
-    "id": "2a677284935da27eaec46162b6d94930e57de13bf5fb69226181063ae4ad309a",
-    "title": "[속보] 美 9월 소비자물가, 전년대비 3.7% 상승",
-    "link": "https://www.hankyung.com/article/202610142545i",
-    "source": "한국경제",
-    "sourceId": "hankyung-economy",
-    "category": "경제",
-    "publishedAt": "2026-10-14T12:33:10.000Z",
-    "collectedAt": "2026-10-15T01:55:41.695Z",
-    "summary": ""
-  },
-  {
-    "id": "57c3309db5bedcdec4e0532a65e896970f7cad30f5011350fb2a735b14cb8cdd",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "source": "OpenAI",
-    "sourceId": "openai-news",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T12:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
-    "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-  },
-  {
-    "id": "004cd593adabcd24c97d9e96a166c251028359017ae1a6a5fbaa8f542a33706f",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone",
-    "source": "OpenAI",
-    "sourceId": "openai-news",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T12:00:00.000Z",
-    "collectedAt": "2026-10-24T08:26:08.055Z",
-    "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-  },
-  {
-    "id": "6321a3f38c1958564ac491f776130ffd0227b1e2a743cc2a4d9bde209908432e",
-    "title": "캐릭터닷AI, 파산 신청...디즈니에 270억 자산 매각 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216237",
-    "source": "AI타임스",
-    "sourceId": "aitimes",
-    "category": "AI이슈",
-    "publishedAt": "2026-10-14T11:58:29.000Z",
-    "collectedAt": "2026-10-15T06:35:36.823Z",
-    "description": "캐릭터닷AI(Character.AI)가 막대한 운영 비용과 잇따른 법적 분쟁을 견디지 못하고 파산 절차에 들어갔다. 디즈니는 캐릭터닷AI의 일부 지식재산권을 2000만달러(약 270억원)에 인수하기 위한 우선협상 입찰자로 나섰다. 활성 사용자 1200만명을 확보한 인기 플랫폼이지만, 수익성 악화와 청소년 안전 문제에 따른 소송이 겹치면서 사업 존속마저 불투명해졌다.로이터와 월스트리트저널(WSJ) 등에 따르면, 캐릭터닷AI는 13일(현지시간) 미국 델라웨어주 윌밍턴 파산법원에 자발적 파산보호 신청서(쳅터 11)를 제출했다.챕터 11은",
-    "summary": "캐릭터닷AI(Character.AI)가 막대한 운영 비용과 잇따른 법적 분쟁을 견디지 못하고 파산 절차에 들어갔다. 디즈니는 캐릭터닷AI의 일부 지식재산권을 2000만달러(약 270억원)에 인수하기 위한 우선협상 입찰자로 나섰다. 활성 사용자 1200만명을 확보한 인기 플랫폼이지만, 수익성 악화와 청소년 안전 문제에 따른 소송이 겹치면서 사업 존속마저 불투…"
   }
 ]
